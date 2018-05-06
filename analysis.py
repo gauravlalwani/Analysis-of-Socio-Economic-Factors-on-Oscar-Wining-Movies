@@ -69,7 +69,6 @@ with connection.cursor() as cursor:
 
         # write the header row (it gets those from the fieldnames)
         myCsvWriter.writeheader()
-
         # and then each of the other results, row by row.
         for row in results:
 
