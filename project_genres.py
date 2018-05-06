@@ -37,7 +37,6 @@ sql = """INSERT INTO movies_genres(genre_id,movie_id)
 with open('movies_imdb.csv') as csvfile:
 
     myCSVReader = csv.DictReader(csvfile)
-
     for row in myCSVReader:
         #Removes extra white spaces from both sides
         row["movie_title"]=row["movie_title"].strip()
