@@ -28,7 +28,6 @@ sql_insert_new_movie="""INSERT INTO movies(name)
 sql = """INSERT INTO awards(year,category,person_id,movie_id)
      VALUE (%(year_of_award)s,%(award)s,%(person_id)s,%(movie_id)s)
      """
-
 #Open the people.csv to read the data
 with open('people.csv') as csvfile:
 
