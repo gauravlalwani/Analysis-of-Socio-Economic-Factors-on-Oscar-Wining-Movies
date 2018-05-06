@@ -1,0 +1,1437 @@
+year,director_facebook_likes,genres.name,no_of_nominations,movie_facebook_likes,movies.name,budget,imdb_rating,name,race,religion,country,sexual_orientation,metacritic_rating,actor_facebook_likes,category
+1998,0,Drama,14,26000,Titanic,200000000,8,James Cameron,White,Atheist,USA,Straight,74.0,29000,Best Director
+1998,0,Drama,14,26000,Titanic,200000000,8,James Cameron,White,Atheist,USA,Straight,74.0,29000,Best Director
+1998,0,Romance,14,26000,Titanic,200000000,8,James Cameron,White,Atheist,USA,Straight,74.0,29000,Best Director
+1998,0,Romance,14,26000,Titanic,200000000,8,James Cameron,White,Atheist,USA,Straight,74.0,29000,Best Director
+2009,22000,Action,,37000,The Dark Knight,185000000,9,Heath Ledger,White,Na,USA,Straight,,23000,Best Supporting Actor
+2009,22000,Action,,37000,The Dark Knight,185000000,9,Heath Ledger,White,Na,USA,Straight,,23000,Best Supporting Actor
+2009,22000,Crime,,37000,The Dark Knight,185000000,9,Heath Ledger,White,Na,USA,Straight,,23000,Best Supporting Actor
+2009,22000,Crime,,37000,The Dark Knight,185000000,9,Heath Ledger,White,Na,USA,Straight,,23000,Best Supporting Actor
+2009,22000,Drama,,37000,The Dark Knight,185000000,9,Heath Ledger,White,Na,USA,Straight,,23000,Best Supporting Actor
+2009,22000,Drama,,37000,The Dark Knight,185000000,9,Heath Ledger,White,Na,USA,Straight,,23000,Best Supporting Actor
+2009,22000,Thriller,,37000,The Dark Knight,185000000,9,Heath Ledger,White,Na,USA,Straight,,23000,Best Supporting Actor
+2009,22000,Thriller,,37000,The Dark Knight,185000000,9,Heath Ledger,White,Na,USA,Straight,,23000,Best Supporting Actor
+2013,0,Adventure,11,122000,Life of Pi,120000000,8,Ang Lee,Asian,Na,USA,Straight,79.0,774,Best Director
+2013,0,Adventure,11,122000,Life of Pi,120000000,8,Ang Lee,Asian,Na,USA,Straight,79.0,774,Best Director
+2013,0,Drama,11,122000,Life of Pi,120000000,8,Ang Lee,Asian,Na,USA,Straight,79.0,774,Best Director
+2013,0,Drama,11,122000,Life of Pi,120000000,8,Ang Lee,Asian,Na,USA,Straight,79.0,774,Best Director
+2013,0,Fantasy,11,122000,Life of Pi,120000000,8,Ang Lee,Asian,Na,USA,Straight,79.0,774,Best Director
+2013,0,Fantasy,11,122000,Life of Pi,120000000,8,Ang Lee,Asian,Na,USA,Straight,79.0,774,Best Director
+2005,17000,Biography,,0,The Aviator,110000000,8,Cate Blanchett,White,Na,USA,Straight,,29000,Best Supporting Actress
+2005,17000,Biography,,0,The Aviator,110000000,8,Cate Blanchett,White,Na,USA,Straight,,29000,Best Supporting Actress
+2005,17000,Drama,,0,The Aviator,110000000,8,Cate Blanchett,White,Na,USA,Straight,,29000,Best Supporting Actress
+2005,17000,Drama,,0,The Aviator,110000000,8,Cate Blanchett,White,Na,USA,Straight,,29000,Best Supporting Actress
+2001,0,Action,12,21000,Gladiator,103000000,9,Russell Crowe,White,Na,USA,Straight,64.0,3000,Best Actor
+2001,0,Action,12,21000,Gladiator,103000000,9,Russell Crowe,White,Na,USA,Straight,64.0,3000,Best Actor
+2001,0,Drama,12,21000,Gladiator,103000000,9,Russell Crowe,White,Na,USA,Straight,64.0,3000,Best Actor
+2001,0,Drama,12,21000,Gladiator,103000000,9,Russell Crowe,White,Na,USA,Straight,64.0,3000,Best Actor
+2001,0,Romance,12,21000,Gladiator,103000000,9,Russell Crowe,White,Na,USA,Straight,64.0,3000,Best Actor
+2001,0,Romance,12,21000,Gladiator,103000000,9,Russell Crowe,White,Na,USA,Straight,64.0,3000,Best Actor
+2013,16000,Drama,,199000,Django Unchained,100000000,9,Christoph Waltz,White,Na,USA,Straight,,29000,Best Supporting Actor
+2013,16000,Drama,,199000,Django Unchained,100000000,9,Christoph Waltz,White,Na,USA,Straight,,29000,Best Supporting Actor
+2013,16000,Western,,199000,Django Unchained,100000000,9,Christoph Waltz,White,Na,USA,Straight,,29000,Best Supporting Actor
+2013,16000,Western,,199000,Django Unchained,100000000,9,Christoph Waltz,White,Na,USA,Straight,,29000,Best Supporting Actor
+2007,17000,Crime,5,29000,The Departed,90000000,9,Martin Scorsese,White,Roman Catholic,USA,Straight,86.0,29000,Best Director
+2007,17000,Crime,5,29000,The Departed,90000000,9,Martin Scorsese,White,Roman Catholic,USA,Straight,86.0,29000,Best Director
+2007,17000,Drama,5,29000,The Departed,90000000,9,Martin Scorsese,White,Roman Catholic,USA,Straight,86.0,29000,Best Director
+2007,17000,Drama,5,29000,The Departed,90000000,9,Martin Scorsese,White,Roman Catholic,USA,Straight,86.0,29000,Best Director
+2007,17000,Thriller,5,29000,The Departed,90000000,9,Martin Scorsese,White,Roman Catholic,USA,Straight,86.0,29000,Best Director
+2007,17000,Thriller,5,29000,The Departed,90000000,9,Martin Scorsese,White,Roman Catholic,USA,Straight,86.0,29000,Best Director
+1960,335,Adventure,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Adventure,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Adventure,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Adventure,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Adventure,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Adventure,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Adventure,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Drama,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Drama,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Drama,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Drama,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Drama,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Drama,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,History,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,History,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,History,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,History,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,History,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,History,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,History,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,History,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,History,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,History,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,History,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,History,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,History,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,History,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,History,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,History,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,History,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,History,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+2004,333,Adventure,,0,Cold Mountain,79000000,7,RenÌ©e Zellweger,White,Na,USA,Straight,,22000,Best Supporting Actress
+2004,333,Adventure,,0,Cold Mountain,79000000,7,RenÌ©e Zellweger,White,Na,USA,Straight,,22000,Best Supporting Actress
+2004,333,Drama,,0,Cold Mountain,79000000,7,RenÌ©e Zellweger,White,Na,USA,Straight,,22000,Best Supporting Actress
+2004,333,Drama,,0,Cold Mountain,79000000,7,RenÌ©e Zellweger,White,Na,USA,Straight,,22000,Best Supporting Actress
+2004,333,History,,0,Cold Mountain,79000000,7,RenÌ©e Zellweger,White,Na,USA,Straight,,22000,Best Supporting Actress
+2004,333,History,,0,Cold Mountain,79000000,7,RenÌ©e Zellweger,White,Na,USA,Straight,,22000,Best Supporting Actress
+2004,333,Romance,,0,Cold Mountain,79000000,7,RenÌ©e Zellweger,White,Na,USA,Straight,,22000,Best Supporting Actress
+2004,333,Romance,,0,Cold Mountain,79000000,7,RenÌ©e Zellweger,White,Na,USA,Straight,,22000,Best Supporting Actress
+2004,333,War,,0,Cold Mountain,79000000,7,RenÌ©e Zellweger,White,Na,USA,Straight,,22000,Best Supporting Actress
+2004,333,War,,0,Cold Mountain,79000000,7,RenÌ©e Zellweger,White,Na,USA,Straight,,22000,Best Supporting Actress
+2002,2000,Biography,8,29000,A Beautiful Mind,58000000,8,Ron Howard,White,Na,USA,Straight,72.0,1000,Best Director
+2002,2000,Biography,8,29000,A Beautiful Mind,58000000,8,Jennifer Connelly,White,Jewish,USA,Straight,72.0,1000,Best Supporting Actress
+2002,2000,Biography,8,29000,A Beautiful Mind,58000000,8,Ron Howard,White,Na,USA,Straight,72.0,1000,Best Director
+2002,2000,Biography,8,29000,A Beautiful Mind,58000000,8,Jennifer Connelly,White,Jewish,USA,Straight,72.0,1000,Best Supporting Actress
+2002,2000,Drama,8,29000,A Beautiful Mind,58000000,8,Ron Howard,White,Na,USA,Straight,72.0,1000,Best Director
+2002,2000,Drama,8,29000,A Beautiful Mind,58000000,8,Jennifer Connelly,White,Jewish,USA,Straight,72.0,1000,Best Supporting Actress
+2002,2000,Drama,8,29000,A Beautiful Mind,58000000,8,Ron Howard,White,Na,USA,Straight,72.0,1000,Best Director
+2002,2000,Drama,8,29000,A Beautiful Mind,58000000,8,Jennifer Connelly,White,Jewish,USA,Straight,72.0,1000,Best Supporting Actress
+2007,386,Drama,,0,Dreamgirls,70000000,7,Jennifer Hudson,Black,Baptist,USA,Straight,,912,Best Supporting Actress
+2007,386,Drama,,0,Dreamgirls,70000000,7,Jennifer Hudson,Black,Baptist,USA,Straight,,912,Best Supporting Actress
+2007,386,Music,,0,Dreamgirls,70000000,7,Jennifer Hudson,Black,Baptist,USA,Straight,,912,Best Supporting Actress
+2007,386,Music,,0,Dreamgirls,70000000,7,Jennifer Hudson,Black,Baptist,USA,Straight,,912,Best Supporting Actress
+2007,386,Musical,,0,Dreamgirls,70000000,7,Jennifer Hudson,Black,Baptist,USA,Straight,,912,Best Supporting Actress
+2007,386,Musical,,0,Dreamgirls,70000000,7,Jennifer Hudson,Black,Baptist,USA,Straight,,912,Best Supporting Actress
+1996,0,Biography,10,17000,Braveheart,72000000,8,Mel Gibson,White,Roman Catholic,USA,Straight,68.0,906,Best Director
+1996,0,Biography,10,17000,Braveheart,72000000,8,Mel Gibson,White,Roman Catholic,USA,Straight,68.0,906,Best Director
+1996,0,Drama,10,17000,Braveheart,72000000,8,Mel Gibson,White,Roman Catholic,USA,Straight,68.0,906,Best Director
+1996,0,Drama,10,17000,Braveheart,72000000,8,Mel Gibson,White,Roman Catholic,USA,Straight,68.0,906,Best Director
+1996,0,History,10,17000,Braveheart,72000000,8,Mel Gibson,White,Roman Catholic,USA,Straight,68.0,906,Best Director
+1996,0,History,10,17000,Braveheart,72000000,8,Mel Gibson,White,Roman Catholic,USA,Straight,68.0,906,Best Director
+1996,0,War,10,17000,Braveheart,72000000,8,Mel Gibson,White,Roman Catholic,USA,Straight,68.0,906,Best Director
+1996,0,War,10,17000,Braveheart,72000000,8,Mel Gibson,White,Roman Catholic,USA,Straight,68.0,906,Best Director
+2010,16000,Adventure,,42000,Inglourious Basterds,75000000,8,Christoph Waltz,White,Na,USA,Straight,,13000,Best Supporting Actor
+2010,16000,Adventure,,42000,Inglourious Basterds,75000000,8,Christoph Waltz,White,Na,USA,Straight,,13000,Best Supporting Actor
+2010,16000,Drama,,42000,Inglourious Basterds,75000000,8,Christoph Waltz,White,Na,USA,Straight,,13000,Best Supporting Actor
+2010,16000,Drama,,42000,Inglourious Basterds,75000000,8,Christoph Waltz,White,Na,USA,Straight,,13000,Best Supporting Actor
+2010,16000,War,,42000,Inglourious Basterds,75000000,8,Christoph Waltz,White,Na,USA,Straight,,13000,Best Supporting Actor
+2010,16000,War,,42000,Inglourious Basterds,75000000,8,Christoph Waltz,White,Na,USA,Straight,,13000,Best Supporting Actor
+1999,14000,Action,11,22000,Saving Private Ryan,70000000,9,Steven Spielberg,White,Jewish,USA,Straight,90.0,15000,Best Director
+1999,14000,Action,11,22000,Saving Private Ryan,70000000,9,Steven Spielberg,White,Jewish,USA,Straight,90.0,15000,Best Director
+1999,14000,Drama,11,22000,Saving Private Ryan,70000000,9,Steven Spielberg,White,Jewish,USA,Straight,90.0,15000,Best Director
+1999,14000,Drama,11,22000,Saving Private Ryan,70000000,9,Steven Spielberg,White,Jewish,USA,Straight,90.0,15000,Best Director
+1999,14000,War,11,22000,Saving Private Ryan,70000000,9,Steven Spielberg,White,Jewish,USA,Straight,90.0,15000,Best Director
+1999,14000,War,11,22000,Saving Private Ryan,70000000,9,Steven Spielberg,White,Jewish,USA,Straight,90.0,15000,Best Director
+2013,14000,Biography,12,71000,Lincoln,65000000,7,Daniel Day-Lewis,White,Na,USA,Straight,86.0,23000,Best Actor
+2013,14000,Biography,12,71000,Lincoln,65000000,7,Daniel Day-Lewis,White,Na,USA,Straight,86.0,23000,Best Actor
+2013,14000,Drama,12,71000,Lincoln,65000000,7,Daniel Day-Lewis,White,Na,USA,Straight,86.0,23000,Best Actor
+2013,14000,Drama,12,71000,Lincoln,65000000,7,Daniel Day-Lewis,White,Na,USA,Straight,86.0,23000,Best Actor
+2013,14000,History,12,71000,Lincoln,65000000,7,Daniel Day-Lewis,White,Na,USA,Straight,86.0,23000,Best Actor
+2013,14000,History,12,71000,Lincoln,65000000,7,Daniel Day-Lewis,White,Na,USA,Straight,86.0,23000,Best Actor
+2013,14000,War,12,71000,Lincoln,65000000,7,Daniel Day-Lewis,White,Na,USA,Straight,86.0,23000,Best Actor
+2013,14000,War,12,71000,Lincoln,65000000,7,Daniel Day-Lewis,White,Na,USA,Straight,86.0,23000,Best Actor
+1995,0,Comedy,13,59000,Forrest Gump,55000000,9,Robert Zemeckis,White,Roman Catholic,USA,Straight,82.0,15000,Best Director
+1995,0,Comedy,13,59000,Forrest Gump,55000000,9,Tom Hanks,White,Born-Again Christian,USA,Straight,82.0,15000,Best Actor
+1995,0,Comedy,13,59000,Forrest Gump,55000000,9,Robert Zemeckis,White,Roman Catholic,USA,Straight,82.0,15000,Best Director
+1995,0,Comedy,13,59000,Forrest Gump,55000000,9,Tom Hanks,White,Born-Again Christian,USA,Straight,82.0,15000,Best Actor
+1995,0,Drama,13,59000,Forrest Gump,55000000,9,Robert Zemeckis,White,Roman Catholic,USA,Straight,82.0,15000,Best Director
+1995,0,Drama,13,59000,Forrest Gump,55000000,9,Tom Hanks,White,Born-Again Christian,USA,Straight,82.0,15000,Best Actor
+1995,0,Drama,13,59000,Forrest Gump,55000000,9,Robert Zemeckis,White,Roman Catholic,USA,Straight,82.0,15000,Best Director
+1995,0,Drama,13,59000,Forrest Gump,55000000,9,Tom Hanks,White,Born-Again Christian,USA,Straight,82.0,15000,Best Actor
+1950,234,Drama,7,0,All the King's Men,55000000,6,Broderick Crawford,White,Na,Germany,Straight,0.0,14000,Best Actor
+1950,234,Drama,7,0,All the King's Men,55000000,6,Mercedes McCambridge,White,Roman Catholic,Germany,Straight,0.0,14000,Best Supporting Actress
+1950,234,Drama,7,0,All the King's Men,55000000,6,Broderick Crawford,White,Na,Germany,Straight,0.0,14000,Best Actor
+1950,234,Drama,7,0,All the King's Men,55000000,6,Mercedes McCambridge,White,Roman Catholic,Germany,Straight,0.0,14000,Best Supporting Actress
+1950,234,Thriller,7,0,All the King's Men,55000000,6,Broderick Crawford,White,Na,Germany,Straight,0.0,14000,Best Actor
+1950,234,Thriller,7,0,All the King's Men,55000000,6,Mercedes McCambridge,White,Roman Catholic,Germany,Straight,0.0,14000,Best Supporting Actress
+1950,234,Thriller,7,0,All the King's Men,55000000,6,Broderick Crawford,White,Na,Germany,Straight,0.0,14000,Best Actor
+1950,234,Thriller,7,0,All the King's Men,55000000,6,Mercedes McCambridge,White,Roman Catholic,Germany,Straight,0.0,14000,Best Supporting Actress
+1957,383,Adventure,2,0,Anastasia,50000000,7,Ingrid Bergman,White,Na,USA,Straight,0.0,4000,Best Actress
+1957,383,Adventure,2,0,Anastasia,50000000,7,Ingrid Bergman,White,Na,USA,Straight,0.0,4000,Best Actress
+1957,383,Animation,2,0,Anastasia,50000000,7,Ingrid Bergman,White,Na,USA,Straight,0.0,4000,Best Actress
+1957,383,Animation,2,0,Anastasia,50000000,7,Ingrid Bergman,White,Na,USA,Straight,0.0,4000,Best Actress
+1957,383,Drama,2,0,Anastasia,50000000,7,Ingrid Bergman,White,Na,USA,Straight,0.0,4000,Best Actress
+1957,383,Drama,2,0,Anastasia,50000000,7,Ingrid Bergman,White,Na,USA,Straight,0.0,4000,Best Actress
+1957,383,Family,2,0,Anastasia,50000000,7,Ingrid Bergman,White,Na,USA,Straight,0.0,4000,Best Actress
+1957,383,Family,2,0,Anastasia,50000000,7,Ingrid Bergman,White,Na,USA,Straight,0.0,4000,Best Actress
+1957,383,Fantasy,2,0,Anastasia,50000000,7,Ingrid Bergman,White,Na,USA,Straight,0.0,4000,Best Actress
+1957,383,Fantasy,2,0,Anastasia,50000000,7,Ingrid Bergman,White,Na,USA,Straight,0.0,4000,Best Actress
+1957,383,Musical,2,0,Anastasia,50000000,7,Ingrid Bergman,White,Na,USA,Straight,0.0,4000,Best Actress
+1957,383,Musical,2,0,Anastasia,50000000,7,Ingrid Bergman,White,Na,USA,Straight,0.0,4000,Best Actress
+1957,383,Mystery,2,0,Anastasia,50000000,7,Ingrid Bergman,White,Na,USA,Straight,0.0,4000,Best Actress
+1957,383,Mystery,2,0,Anastasia,50000000,7,Ingrid Bergman,White,Na,USA,Straight,0.0,4000,Best Actress
+1957,383,Romance,2,0,Anastasia,50000000,7,Ingrid Bergman,White,Na,USA,Straight,0.0,4000,Best Actress
+1957,383,Romance,2,0,Anastasia,50000000,7,Ingrid Bergman,White,Na,USA,Straight,0.0,4000,Best Actress
+1997,488,Comedy,,0,Jerry Maguire,50000000,7,"Cuba Gooding, Jr.",Black,Na,USA,Straight,,10000,Best Supporting Actor
+1997,488,Comedy,,0,Jerry Maguire,50000000,7,"Cuba Gooding, Jr.",Black,Na,USA,Straight,,10000,Best Supporting Actor
+1997,488,Drama,,0,Jerry Maguire,50000000,7,"Cuba Gooding, Jr.",Black,Na,USA,Straight,,10000,Best Supporting Actor
+1997,488,Drama,,0,Jerry Maguire,50000000,7,"Cuba Gooding, Jr.",Black,Na,USA,Straight,,10000,Best Supporting Actor
+1997,488,Romance,,0,Jerry Maguire,50000000,7,"Cuba Gooding, Jr.",Black,Na,USA,Straight,,10000,Best Supporting Actor
+1997,488,Romance,,0,Jerry Maguire,50000000,7,"Cuba Gooding, Jr.",Black,Na,USA,Straight,,10000,Best Supporting Actor
+1997,488,Sport,,0,Jerry Maguire,50000000,7,"Cuba Gooding, Jr.",Black,Na,USA,Straight,,10000,Best Supporting Actor
+1997,488,Sport,,0,Jerry Maguire,50000000,7,"Cuba Gooding, Jr.",Black,Na,USA,Straight,,10000,Best Supporting Actor
+1997,274,Comedy,7,11000,As Good as It Gets,50000000,8,Jack Nicholson,White,Atheist,USA,Straight,67.0,625,Best Actor
+1998,274,Comedy,7,11000,As Good as It Gets,50000000,8,Helen Hunt,White,Na,USA,Straight,67.0,625,Best Actress
+1997,274,Comedy,7,11000,As Good as It Gets,50000000,8,Jack Nicholson,White,Atheist,USA,Straight,67.0,625,Best Actor
+1998,274,Comedy,7,11000,As Good as It Gets,50000000,8,Helen Hunt,White,Na,USA,Straight,67.0,625,Best Actress
+1997,274,Drama,7,11000,As Good as It Gets,50000000,8,Jack Nicholson,White,Atheist,USA,Straight,67.0,625,Best Actor
+1998,274,Drama,7,11000,As Good as It Gets,50000000,8,Helen Hunt,White,Na,USA,Straight,67.0,625,Best Actress
+1997,274,Drama,7,11000,As Good as It Gets,50000000,8,Jack Nicholson,White,Atheist,USA,Straight,67.0,625,Best Actor
+1998,274,Drama,7,11000,As Good as It Gets,50000000,8,Helen Hunt,White,Na,USA,Straight,67.0,625,Best Actress
+1997,274,Romance,7,11000,As Good as It Gets,50000000,8,Jack Nicholson,White,Atheist,USA,Straight,67.0,625,Best Actor
+1998,274,Romance,7,11000,As Good as It Gets,50000000,8,Helen Hunt,White,Na,USA,Straight,67.0,625,Best Actress
+1997,274,Romance,7,11000,As Good as It Gets,50000000,8,Jack Nicholson,White,Atheist,USA,Straight,67.0,625,Best Actor
+1998,274,Romance,7,11000,As Good as It Gets,50000000,8,Helen Hunt,White,Na,USA,Straight,67.0,625,Best Actress
+2001,0,Biography,5,0,Erin Brockovich,52000000,7,Julia Roberts,White,Hindu,USA,Straight,73.0,8000,Best Actress
+2001,0,Biography,5,0,Erin Brockovich,52000000,7,Julia Roberts,White,Hindu,USA,Straight,73.0,8000,Best Actress
+2001,0,Drama,5,0,Erin Brockovich,52000000,7,Julia Roberts,White,Hindu,USA,Straight,73.0,8000,Best Actress
+2001,0,Drama,5,0,Erin Brockovich,52000000,7,Julia Roberts,White,Hindu,USA,Straight,73.0,8000,Best Actress
+2006,79,Drama,,0,Syriana,50000000,7,George Clooney,White,Na,USA,Straight,,13000,Best Supporting Actor
+2006,79,Drama,,0,Syriana,50000000,7,George Clooney,White,Na,USA,Straight,,13000,Best Supporting Actor
+2006,79,Drama,,0,Syriana,50000000,7,George Clooney,White,Na,USA,Straight,,13000,Best Supporting Actor
+2006,79,Drama,,0,Syriana,50000000,7,George Clooney,White,Na,USA,Straight,,13000,Best Supporting Actor
+2006,79,Thriller,,0,Syriana,50000000,7,George Clooney,White,Na,USA,Straight,,13000,Best Supporting Actor
+2006,79,Thriller,,0,Syriana,50000000,7,George Clooney,White,Na,USA,Straight,,13000,Best Supporting Actor
+2006,79,Thriller,,0,Syriana,50000000,7,George Clooney,White,Na,USA,Straight,,13000,Best Supporting Actor
+2006,79,Thriller,,0,Syriana,50000000,7,George Clooney,White,Na,USA,Straight,,13000,Best Supporting Actor
+2001,0,Crime,5,0,Traffic,48000000,8,Steven Soderbergh,White,Atheist,USA,Straight,86.0,599,Best Director
+2001,0,Crime,5,0,Traffic,48000000,8,Benicio Del Toro,Hispanic,Na,USA,Straight,86.0,599,Best Supporting Actor
+2001,0,Crime,5,0,Traffic,48000000,8,Steven Soderbergh,White,Atheist,USA,Straight,86.0,599,Best Director
+2001,0,Crime,5,0,Traffic,48000000,8,Benicio Del Toro,Hispanic,Na,USA,Straight,86.0,599,Best Supporting Actor
+2001,0,Drama,5,0,Traffic,48000000,8,Steven Soderbergh,White,Atheist,USA,Straight,86.0,599,Best Director
+2001,0,Drama,5,0,Traffic,48000000,8,Benicio Del Toro,Hispanic,Na,USA,Straight,86.0,599,Best Supporting Actor
+2001,0,Drama,5,0,Traffic,48000000,8,Steven Soderbergh,White,Atheist,USA,Straight,86.0,599,Best Director
+2001,0,Drama,5,0,Traffic,48000000,8,Benicio Del Toro,Hispanic,Na,USA,Straight,86.0,599,Best Supporting Actor
+2001,0,Thriller,5,0,Traffic,48000000,8,Steven Soderbergh,White,Atheist,USA,Straight,86.0,599,Best Director
+2001,0,Thriller,5,0,Traffic,48000000,8,Benicio Del Toro,Hispanic,Na,USA,Straight,86.0,599,Best Supporting Actor
+2001,0,Thriller,5,0,Traffic,48000000,8,Steven Soderbergh,White,Atheist,USA,Straight,86.0,599,Best Director
+2001,0,Thriller,5,0,Traffic,48000000,8,Benicio Del Toro,Hispanic,Na,USA,Straight,86.0,599,Best Supporting Actor
+2002,845,Crime,2,0,Training Day,45000000,8,Denzel Washington,Black,Protestant,USA,Straight,70.0,18000,Best Actor
+2002,845,Crime,2,0,Training Day,45000000,8,Denzel Washington,Black,Protestant,USA,Straight,70.0,18000,Best Actor
+2002,845,Drama,2,0,Training Day,45000000,8,Denzel Washington,Black,Protestant,USA,Straight,70.0,18000,Best Actor
+2002,845,Drama,2,0,Training Day,45000000,8,Denzel Washington,Black,Protestant,USA,Straight,70.0,18000,Best Actor
+2002,845,Thriller,2,0,Training Day,45000000,8,Denzel Washington,Black,Protestant,USA,Straight,70.0,18000,Best Actor
+2002,845,Thriller,2,0,Training Day,45000000,8,Denzel Washington,Black,Protestant,USA,Straight,70.0,18000,Best Actor
+1994,99,Action,,0,The Fugitive,44000000,8,Tommy Lee Jones,White,Na,USA,Straight,,11000,Best Supporting Actor
+1994,99,Action,,0,The Fugitive,44000000,8,Tommy Lee Jones,White,Na,USA,Straight,,11000,Best Supporting Actor
+1994,99,Adventure,,0,The Fugitive,44000000,8,Tommy Lee Jones,White,Na,USA,Straight,,11000,Best Supporting Actor
+1994,99,Adventure,,0,The Fugitive,44000000,8,Tommy Lee Jones,White,Na,USA,Straight,,11000,Best Supporting Actor
+1994,99,Crime,,0,The Fugitive,44000000,8,Tommy Lee Jones,White,Na,USA,Straight,,11000,Best Supporting Actor
+1994,99,Crime,,0,The Fugitive,44000000,8,Tommy Lee Jones,White,Na,USA,Straight,,11000,Best Supporting Actor
+1994,99,Drama,,0,The Fugitive,44000000,8,Tommy Lee Jones,White,Na,USA,Straight,,11000,Best Supporting Actor
+1994,99,Drama,,0,The Fugitive,44000000,8,Tommy Lee Jones,White,Na,USA,Straight,,11000,Best Supporting Actor
+1994,99,Mystery,,0,The Fugitive,44000000,8,Tommy Lee Jones,White,Na,USA,Straight,,11000,Best Supporting Actor
+1994,99,Mystery,,0,The Fugitive,44000000,8,Tommy Lee Jones,White,Na,USA,Straight,,11000,Best Supporting Actor
+1994,99,Thriller,,0,The Fugitive,44000000,8,Tommy Lee Jones,White,Na,USA,Straight,,11000,Best Supporting Actor
+1994,99,Thriller,,0,The Fugitive,44000000,8,Tommy Lee Jones,White,Na,USA,Straight,,11000,Best Supporting Actor
+2005,138,Biography,6,0,Ray,40000000,8,Jamie Foxx,Black,Baptist,USA,Straight,73.0,904,Best Actor
+2005,138,Biography,6,0,Ray,40000000,8,Jamie Foxx,Black,Baptist,USA,Straight,73.0,904,Best Actor
+2005,138,Drama,6,0,Ray,40000000,8,Jamie Foxx,Black,Baptist,USA,Straight,73.0,904,Best Actor
+2005,138,Drama,6,0,Ray,40000000,8,Jamie Foxx,Black,Baptist,USA,Straight,73.0,904,Best Actor
+2005,138,Music,6,0,Ray,40000000,8,Jamie Foxx,Black,Baptist,USA,Straight,73.0,904,Best Actor
+2005,138,Music,6,0,Ray,40000000,8,Jamie Foxx,Black,Baptist,USA,Straight,73.0,904,Best Actor
+1982,0,Animation,,301,Arthur,0,7,John Gielgud,White,Na,Canada,Gay,,51,Best Supporting Actor
+1982,0,Animation,,301,Arthur,0,7,John Gielgud,White,Na,Canada,Gay,,51,Best Supporting Actor
+1982,0,Comedy,,301,Arthur,0,7,John Gielgud,White,Na,Canada,Gay,,51,Best Supporting Actor
+1982,0,Comedy,,301,Arthur,0,7,John Gielgud,White,Na,Canada,Gay,,51,Best Supporting Actor
+1982,0,Family,,301,Arthur,0,7,John Gielgud,White,Na,Canada,Gay,,51,Best Supporting Actor
+1982,0,Family,,301,Arthur,0,7,John Gielgud,White,Na,Canada,Gay,,51,Best Supporting Actor
+1934,50,Comedy,0,0,Morning Glory,40000000,7,Katharine Hepburn,White,Atheist,USA,Bisexual,0.0,293,Best Actress
+1934,50,Comedy,0,0,Morning Glory,40000000,7,Katharine Hepburn,White,Atheist,USA,Bisexual,0.0,293,Best Actress
+1934,50,Drama,0,0,Morning Glory,40000000,7,Katharine Hepburn,White,Atheist,USA,Bisexual,0.0,293,Best Actress
+1934,50,Drama,0,0,Morning Glory,40000000,7,Katharine Hepburn,White,Atheist,USA,Bisexual,0.0,293,Best Actress
+1934,50,Romance,0,0,Morning Glory,40000000,7,Katharine Hepburn,White,Atheist,USA,Bisexual,0.0,293,Best Actress
+1934,50,Romance,0,0,Morning Glory,40000000,7,Katharine Hepburn,White,Atheist,USA,Bisexual,0.0,293,Best Actress
+2010,304,Drama,,12000,Precious,10000000,7,Mo'Nique,Black,Na,USA,Straight,,940,Best Supporting Actress
+2010,304,Drama,,12000,Precious,10000000,7,Mo'Nique,Black,Na,USA,Straight,,940,Best Supporting Actress
+2010,304,Drama,,12000,Precious,10000000,7,Mo'Nique,Black,Na,USA,Straight,,940,Best Supporting Actress
+2010,304,Drama,,12000,Precious,10000000,7,Mo'Nique,Black,Na,USA,Straight,,940,Best Supporting Actress
+2010,304,Drama,,12000,Precious,10000000,7,Mo'Nique,Black,Na,USA,Straight,,939,Best Supporting Actress
+2010,304,Drama,,12000,Precious,10000000,7,Mo'Nique,Black,Na,USA,Straight,,939,Best Supporting Actress
+2010,304,Drama,,12000,Precious,10000000,7,Mo'Nique,Black,Na,USA,Straight,,939,Best Supporting Actress
+2010,304,Drama,,12000,Precious,10000000,7,Mo'Nique,Black,Na,USA,Straight,,939,Best Supporting Actress
+2010,102,Biography,2,38000,The Blind Side,29000000,8,Sandra Bullock,White,Na,USA,Straight,53.0,768,Best Actress
+2010,102,Biography,2,38000,The Blind Side,29000000,8,Sandra Bullock,White,Na,USA,Straight,53.0,768,Best Actress
+2010,102,Drama,2,38000,The Blind Side,29000000,8,Sandra Bullock,White,Na,USA,Straight,53.0,768,Best Actress
+2010,102,Drama,2,38000,The Blind Side,29000000,8,Sandra Bullock,White,Na,USA,Straight,53.0,768,Best Actress
+2010,102,Sport,2,38000,The Blind Side,29000000,8,Sandra Bullock,White,Na,USA,Straight,53.0,768,Best Actress
+2010,102,Sport,2,38000,The Blind Side,29000000,8,Sandra Bullock,White,Na,USA,Straight,53.0,768,Best Actress
+1970,1000,Adventure,2,36000,True Grit,38000000,8,John Wayne,White,Roman Catholic,USA,Straight,80.0,13000,Best Actor
+1970,1000,Adventure,2,36000,True Grit,38000000,8,John Wayne,White,Roman Catholic,USA,Straight,80.0,13000,Best Actor
+1970,1000,Drama,2,36000,True Grit,38000000,8,John Wayne,White,Roman Catholic,USA,Straight,80.0,13000,Best Actor
+1970,1000,Drama,2,36000,True Grit,38000000,8,John Wayne,White,Roman Catholic,USA,Straight,80.0,13000,Best Actor
+1970,1000,Western,2,36000,True Grit,38000000,8,John Wayne,White,Roman Catholic,USA,Straight,80.0,13000,Best Actor
+1970,1000,Western,2,36000,True Grit,38000000,8,John Wayne,White,Roman Catholic,USA,Straight,80.0,13000,Best Actor
+1997,333,Drama,12,0,The English Patient,27000000,7,Anthony Minghella,White,Na,USA,Straight,87.0,14000,Best Director
+1997,333,Drama,12,0,The English Patient,27000000,7,Juliette Binoche,White,Na,USA,Straight,87.0,14000,Best Supporting Actress
+1997,333,Drama,12,0,The English Patient,27000000,7,Anthony Minghella,White,Na,USA,Straight,87.0,14000,Best Director
+1997,333,Drama,12,0,The English Patient,27000000,7,Juliette Binoche,White,Na,USA,Straight,87.0,14000,Best Supporting Actress
+1997,333,Romance,12,0,The English Patient,27000000,7,Anthony Minghella,White,Na,USA,Straight,87.0,14000,Best Director
+1997,333,Romance,12,0,The English Patient,27000000,7,Juliette Binoche,White,Na,USA,Straight,87.0,14000,Best Supporting Actress
+1997,333,Romance,12,0,The English Patient,27000000,7,Anthony Minghella,White,Na,USA,Straight,87.0,14000,Best Director
+1997,333,Romance,12,0,The English Patient,27000000,7,Juliette Binoche,White,Na,USA,Straight,87.0,14000,Best Supporting Actress
+1997,333,War,12,0,The English Patient,27000000,7,Anthony Minghella,White,Na,USA,Straight,87.0,14000,Best Director
+1997,333,War,12,0,The English Patient,27000000,7,Juliette Binoche,White,Na,USA,Straight,87.0,14000,Best Supporting Actress
+1997,333,War,12,0,The English Patient,27000000,7,Anthony Minghella,White,Na,USA,Straight,87.0,14000,Best Director
+1997,333,War,12,0,The English Patient,27000000,7,Juliette Binoche,White,Na,USA,Straight,87.0,14000,Best Supporting Actress
+1998,161,Crime,,11000,L.A. Confidential,35000000,8,Kim Basinger,White,Na,USA,Straight,,18000,Best Supporting Actress
+1998,161,Crime,,11000,L.A. Confidential,35000000,8,Kim Basinger,White,Na,USA,Straight,,18000,Best Supporting Actress
+1998,161,Drama,,11000,L.A. Confidential,35000000,8,Kim Basinger,White,Na,USA,Straight,,18000,Best Supporting Actress
+1998,161,Drama,,11000,L.A. Confidential,35000000,8,Kim Basinger,White,Na,USA,Straight,,18000,Best Supporting Actress
+1998,161,Mystery,,11000,L.A. Confidential,35000000,8,Kim Basinger,White,Na,USA,Straight,,18000,Best Supporting Actress
+1998,161,Mystery,,11000,L.A. Confidential,35000000,8,Kim Basinger,White,Na,USA,Straight,,18000,Best Supporting Actress
+1998,161,Thriller,,11000,L.A. Confidential,35000000,8,Kim Basinger,White,Na,USA,Straight,,18000,Best Supporting Actress
+1998,161,Thriller,,11000,L.A. Confidential,35000000,8,Kim Basinger,White,Na,USA,Straight,,18000,Best Supporting Actress
+2003,2000,Biography,7,21000,The Pianist,35000000,9,Roman Polanski,White,See Note,France,Straight,85.0,396,Best Director
+2003,2000,Biography,7,21000,The Pianist,35000000,9,Adrien Brody,White,Jewish,France,Straight,85.0,396,Best Actor
+2003,2000,Biography,7,21000,The Pianist,35000000,9,Roman Polanski,White,See Note,France,Straight,85.0,396,Best Director
+2003,2000,Biography,7,21000,The Pianist,35000000,9,Adrien Brody,White,Jewish,France,Straight,85.0,396,Best Actor
+2003,2000,Drama,7,21000,The Pianist,35000000,9,Roman Polanski,White,See Note,France,Straight,85.0,396,Best Director
+2003,2000,Drama,7,21000,The Pianist,35000000,9,Adrien Brody,White,Jewish,France,Straight,85.0,396,Best Actor
+2003,2000,Drama,7,21000,The Pianist,35000000,9,Roman Polanski,White,See Note,France,Straight,85.0,396,Best Director
+2003,2000,Drama,7,21000,The Pianist,35000000,9,Adrien Brody,White,Jewish,France,Straight,85.0,396,Best Actor
+2003,2000,War,7,21000,The Pianist,35000000,9,Roman Polanski,White,See Note,France,Straight,85.0,396,Best Director
+2003,2000,War,7,21000,The Pianist,35000000,9,Adrien Brody,White,Jewish,France,Straight,85.0,396,Best Actor
+2003,2000,War,7,21000,The Pianist,35000000,9,Roman Polanski,White,See Note,France,Straight,85.0,396,Best Director
+2003,2000,War,7,21000,The Pianist,35000000,9,Adrien Brody,White,Jewish,France,Straight,85.0,396,Best Actor
+1981,631,Biography,12,0,Reds,35000000,8,Warren Beatty,White,Baptist,USA,Straight,0.0,635,Best Director
+1982,631,Biography,12,0,Reds,35000000,8,Maureen Stapleton,White,Roman Catholic,USA,Straight,0.0,635,Best Supporting Actress
+1981,631,Biography,12,0,Reds,35000000,8,Warren Beatty,White,Baptist,USA,Straight,0.0,635,Best Director
+1982,631,Biography,12,0,Reds,35000000,8,Maureen Stapleton,White,Roman Catholic,USA,Straight,0.0,635,Best Supporting Actress
+1981,631,Drama,12,0,Reds,35000000,8,Warren Beatty,White,Baptist,USA,Straight,0.0,635,Best Director
+1982,631,Drama,12,0,Reds,35000000,8,Maureen Stapleton,White,Roman Catholic,USA,Straight,0.0,635,Best Supporting Actress
+1981,631,Drama,12,0,Reds,35000000,8,Warren Beatty,White,Baptist,USA,Straight,0.0,635,Best Director
+1982,631,Drama,12,0,Reds,35000000,8,Maureen Stapleton,White,Roman Catholic,USA,Straight,0.0,635,Best Supporting Actress
+1981,631,History,12,0,Reds,35000000,8,Warren Beatty,White,Baptist,USA,Straight,0.0,635,Best Director
+1982,631,History,12,0,Reds,35000000,8,Maureen Stapleton,White,Roman Catholic,USA,Straight,0.0,635,Best Supporting Actress
+1981,631,History,12,0,Reds,35000000,8,Warren Beatty,White,Baptist,USA,Straight,0.0,635,Best Director
+1982,631,History,12,0,Reds,35000000,8,Maureen Stapleton,White,Roman Catholic,USA,Straight,0.0,635,Best Supporting Actress
+1981,631,Romance,12,0,Reds,35000000,8,Warren Beatty,White,Baptist,USA,Straight,0.0,635,Best Director
+1982,631,Romance,12,0,Reds,35000000,8,Maureen Stapleton,White,Roman Catholic,USA,Straight,0.0,635,Best Supporting Actress
+1981,631,Romance,12,0,Reds,35000000,8,Warren Beatty,White,Baptist,USA,Straight,0.0,635,Best Director
+1982,631,Romance,12,0,Reds,35000000,8,Maureen Stapleton,White,Roman Catholic,USA,Straight,0.0,635,Best Supporting Actress
+2009,335,Drama,5,15000,The Reader,32000000,8,Kate Winslet,White,Na,USA,Straight,58.0,14000,Best Actress
+2009,335,Drama,5,15000,The Reader,32000000,8,Kate Winslet,White,Na,USA,Straight,58.0,14000,Best Actress
+2009,335,Romance,5,15000,The Reader,32000000,8,Kate Winslet,White,Na,USA,Straight,58.0,14000,Best Actress
+2009,335,Romance,5,15000,The Reader,32000000,8,Kate Winslet,White,Na,USA,Straight,58.0,14000,Best Actress
+1986,521,Biography,11,0,Out of Africa,31000000,7,Sydney Pollack,White,Jewish,USA,Straight,0.0,11000,Best Director
+1986,521,Biography,11,0,Out of Africa,31000000,7,Sydney Pollack,White,Jewish,USA,Straight,0.0,11000,Best Director
+1986,521,Drama,11,0,Out of Africa,31000000,7,Sydney Pollack,White,Jewish,USA,Straight,0.0,11000,Best Director
+1986,521,Drama,11,0,Out of Africa,31000000,7,Sydney Pollack,White,Jewish,USA,Straight,0.0,11000,Best Director
+1986,521,Romance,11,0,Out of Africa,31000000,7,Sydney Pollack,White,Jewish,USA,Straight,0.0,11000,Best Director
+1986,521,Romance,11,0,Out of Africa,31000000,7,Sydney Pollack,White,Jewish,USA,Straight,0.0,11000,Best Director
+2003,252,Comedy,,0,Chicago,45000000,7,Catherine Zeta-Jones,White,Roman Catholic,USA,Straight,,539,Best Supporting Actress
+2003,252,Comedy,,0,Chicago,45000000,7,Catherine Zeta-Jones,White,Roman Catholic,USA,Straight,,539,Best Supporting Actress
+2003,252,Crime,,0,Chicago,45000000,7,Catherine Zeta-Jones,White,Roman Catholic,USA,Straight,,539,Best Supporting Actress
+2003,252,Crime,,0,Chicago,45000000,7,Catherine Zeta-Jones,White,Roman Catholic,USA,Straight,,539,Best Supporting Actress
+2003,252,Musical,,0,Chicago,45000000,7,Catherine Zeta-Jones,White,Roman Catholic,USA,Straight,,539,Best Supporting Actress
+2003,252,Musical,,0,Chicago,45000000,7,Catherine Zeta-Jones,White,Roman Catholic,USA,Straight,,539,Best Supporting Actress
+2003,16000,Crime,6,12000,Mystic River,25000000,8,Sean Penn,White,Roman Catholic,USA,Straight,84.0,616,Best Actor
+2004,16000,Crime,6,12000,Mystic River,25000000,8,Tim Robbins,White,Roman Catholic,USA,Straight,84.0,616,Best Supporting Actor
+2003,16000,Crime,6,12000,Mystic River,25000000,8,Sean Penn,White,Roman Catholic,USA,Straight,84.0,616,Best Actor
+2004,16000,Crime,6,12000,Mystic River,25000000,8,Tim Robbins,White,Roman Catholic,USA,Straight,84.0,616,Best Supporting Actor
+2003,16000,Drama,6,12000,Mystic River,25000000,8,Sean Penn,White,Roman Catholic,USA,Straight,84.0,616,Best Actor
+2004,16000,Drama,6,12000,Mystic River,25000000,8,Tim Robbins,White,Roman Catholic,USA,Straight,84.0,616,Best Supporting Actor
+2003,16000,Drama,6,12000,Mystic River,25000000,8,Sean Penn,White,Roman Catholic,USA,Straight,84.0,616,Best Actor
+2004,16000,Drama,6,12000,Mystic River,25000000,8,Tim Robbins,White,Roman Catholic,USA,Straight,84.0,616,Best Supporting Actor
+2003,16000,Mystery,6,12000,Mystic River,25000000,8,Sean Penn,White,Roman Catholic,USA,Straight,84.0,616,Best Actor
+2004,16000,Mystery,6,12000,Mystic River,25000000,8,Tim Robbins,White,Roman Catholic,USA,Straight,84.0,616,Best Supporting Actor
+2003,16000,Mystery,6,12000,Mystic River,25000000,8,Sean Penn,White,Roman Catholic,USA,Straight,84.0,616,Best Actor
+2004,16000,Mystery,6,12000,Mystic River,25000000,8,Tim Robbins,White,Roman Catholic,USA,Straight,84.0,616,Best Supporting Actor
+2003,16000,Thriller,6,12000,Mystic River,25000000,8,Sean Penn,White,Roman Catholic,USA,Straight,84.0,616,Best Actor
+2004,16000,Thriller,6,12000,Mystic River,25000000,8,Tim Robbins,White,Roman Catholic,USA,Straight,84.0,616,Best Supporting Actor
+2003,16000,Thriller,6,12000,Mystic River,25000000,8,Sean Penn,White,Roman Catholic,USA,Straight,84.0,616,Best Actor
+2004,16000,Thriller,6,12000,Mystic River,25000000,8,Tim Robbins,White,Roman Catholic,USA,Straight,84.0,616,Best Supporting Actor
+2005,16000,Drama,7,14000,Million Dollar Baby,30000000,8,Clint Eastwood,White,Na,USA,Straight,86.0,16000,Best Director
+2005,16000,Drama,7,14000,Million Dollar Baby,30000000,8,Morgan Freeman,Black,Na,USA,Straight,86.0,16000,Best Supporting Actor
+2005,16000,Drama,7,14000,Million Dollar Baby,30000000,8,Hilary Swank,White,Na,USA,Straight,86.0,16000,Best Actress
+2005,16000,Drama,7,14000,Million Dollar Baby,30000000,8,Hilary Swank,White,Na,USA,Straight,86.0,16000,Best Actress
+2005,16000,Drama,7,14000,Million Dollar Baby,30000000,8,Hilary Swank,White,Na,USA,Straight,86.0,16000,Best Actress
+2005,16000,Drama,7,14000,Million Dollar Baby,30000000,8,Clint Eastwood,White,Na,USA,Straight,86.0,16000,Best Director
+2005,16000,Drama,7,14000,Million Dollar Baby,30000000,8,Morgan Freeman,Black,Na,USA,Straight,86.0,16000,Best Supporting Actor
+2005,16000,Drama,7,14000,Million Dollar Baby,30000000,8,Hilary Swank,White,Na,USA,Straight,86.0,16000,Best Actress
+2005,16000,Drama,7,14000,Million Dollar Baby,30000000,8,Hilary Swank,White,Na,USA,Straight,86.0,16000,Best Actress
+2005,16000,Drama,7,14000,Million Dollar Baby,30000000,8,Hilary Swank,White,Na,USA,Straight,86.0,16000,Best Actress
+2005,16000,Sport,7,14000,Million Dollar Baby,30000000,8,Clint Eastwood,White,Na,USA,Straight,86.0,16000,Best Director
+2005,16000,Sport,7,14000,Million Dollar Baby,30000000,8,Morgan Freeman,Black,Na,USA,Straight,86.0,16000,Best Supporting Actor
+2005,16000,Sport,7,14000,Million Dollar Baby,30000000,8,Hilary Swank,White,Na,USA,Straight,86.0,16000,Best Actress
+2005,16000,Sport,7,14000,Million Dollar Baby,30000000,8,Hilary Swank,White,Na,USA,Straight,86.0,16000,Best Actress
+2005,16000,Sport,7,14000,Million Dollar Baby,30000000,8,Hilary Swank,White,Na,USA,Straight,86.0,16000,Best Actress
+2005,16000,Sport,7,14000,Million Dollar Baby,30000000,8,Clint Eastwood,White,Na,USA,Straight,86.0,16000,Best Director
+2005,16000,Sport,7,14000,Million Dollar Baby,30000000,8,Morgan Freeman,Black,Na,USA,Straight,86.0,16000,Best Supporting Actor
+2005,16000,Sport,7,14000,Million Dollar Baby,30000000,8,Hilary Swank,White,Na,USA,Straight,86.0,16000,Best Actress
+2005,16000,Sport,7,14000,Million Dollar Baby,30000000,8,Hilary Swank,White,Na,USA,Straight,86.0,16000,Best Actress
+2005,16000,Sport,7,14000,Million Dollar Baby,30000000,8,Hilary Swank,White,Na,USA,Straight,86.0,16000,Best Actress
+1990,380,Drama,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+1990,380,Drama,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+1990,380,Drama,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+1990,380,Drama,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+1990,380,History,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+1990,380,History,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+1990,380,History,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+1990,380,History,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+1990,380,War,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+1990,380,War,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+1990,380,War,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+1990,380,War,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+2006,446,Biography,5,11000,Walk the Line,28000000,8,Reese Witherspoon,White,Na,USA,Straight,72.0,523,Best Actress
+2006,446,Biography,5,11000,Walk the Line,28000000,8,Reese Witherspoon,White,Na,USA,Straight,72.0,523,Best Actress
+2006,446,Drama,5,11000,Walk the Line,28000000,8,Reese Witherspoon,White,Na,USA,Straight,72.0,523,Best Actress
+2006,446,Drama,5,11000,Walk the Line,28000000,8,Reese Witherspoon,White,Na,USA,Straight,72.0,523,Best Actress
+2006,446,Music,5,11000,Walk the Line,28000000,8,Reese Witherspoon,White,Na,USA,Straight,72.0,523,Best Actress
+2006,446,Music,5,11000,Walk the Line,28000000,8,Reese Witherspoon,White,Na,USA,Straight,72.0,523,Best Actress
+2006,446,Romance,5,11000,Walk the Line,28000000,8,Reese Witherspoon,White,Na,USA,Straight,72.0,523,Best Actress
+2006,446,Romance,5,11000,Walk the Line,28000000,8,Reese Witherspoon,White,Na,USA,Straight,72.0,523,Best Actress
+1985,767,Adventure,,845,A Passage to India,16000000,7,Peggy Ashcroft,White,Agnostic,UK,Straight,,358,Best Supporting Actress
+1985,767,Adventure,,845,A Passage to India,16000000,7,Peggy Ashcroft,White,Agnostic,UK,Straight,,358,Best Supporting Actress
+1985,767,Drama,,845,A Passage to India,16000000,7,Peggy Ashcroft,White,Agnostic,UK,Straight,,358,Best Supporting Actress
+1985,767,Drama,,845,A Passage to India,16000000,7,Peggy Ashcroft,White,Agnostic,UK,Straight,,358,Best Supporting Actress
+1985,767,History,,845,A Passage to India,16000000,7,Peggy Ashcroft,White,Agnostic,UK,Straight,,358,Best Supporting Actress
+1985,767,History,,845,A Passage to India,16000000,7,Peggy Ashcroft,White,Agnostic,UK,Straight,,358,Best Supporting Actress
+1999,108,Comedy,13,0,Shakespeare in Love,25000000,7,Gwyneth Paltrow,White,Jewish,USA,Straight,87.0,1000,Best Actress
+1999,108,Comedy,13,0,Shakespeare in Love,25000000,7,Judi Dench,White,Quaker,USA,Straight,87.0,1000,Best Supporting Actress
+1999,108,Comedy,13,0,Shakespeare in Love,25000000,7,Gwyneth Paltrow,White,Jewish,USA,Straight,87.0,1000,Best Actress
+1999,108,Comedy,13,0,Shakespeare in Love,25000000,7,Gwyneth Paltrow,White,Jewish,USA,Straight,87.0,1000,Best Actress
+1999,108,Comedy,13,0,Shakespeare in Love,25000000,7,Judi Dench,White,Quaker,USA,Straight,87.0,1000,Best Supporting Actress
+1999,108,Comedy,13,0,Shakespeare in Love,25000000,7,Gwyneth Paltrow,White,Jewish,USA,Straight,87.0,1000,Best Actress
+1999,108,Drama,13,0,Shakespeare in Love,25000000,7,Gwyneth Paltrow,White,Jewish,USA,Straight,87.0,1000,Best Actress
+1999,108,Drama,13,0,Shakespeare in Love,25000000,7,Judi Dench,White,Quaker,USA,Straight,87.0,1000,Best Supporting Actress
+1999,108,Drama,13,0,Shakespeare in Love,25000000,7,Gwyneth Paltrow,White,Jewish,USA,Straight,87.0,1000,Best Actress
+1999,108,Drama,13,0,Shakespeare in Love,25000000,7,Gwyneth Paltrow,White,Jewish,USA,Straight,87.0,1000,Best Actress
+1999,108,Drama,13,0,Shakespeare in Love,25000000,7,Judi Dench,White,Quaker,USA,Straight,87.0,1000,Best Supporting Actress
+1999,108,Drama,13,0,Shakespeare in Love,25000000,7,Gwyneth Paltrow,White,Jewish,USA,Straight,87.0,1000,Best Actress
+1999,108,Romance,13,0,Shakespeare in Love,25000000,7,Gwyneth Paltrow,White,Jewish,USA,Straight,87.0,1000,Best Actress
+1999,108,Romance,13,0,Shakespeare in Love,25000000,7,Judi Dench,White,Quaker,USA,Straight,87.0,1000,Best Supporting Actress
+1999,108,Romance,13,0,Shakespeare in Love,25000000,7,Gwyneth Paltrow,White,Jewish,USA,Straight,87.0,1000,Best Actress
+1999,108,Romance,13,0,Shakespeare in Love,25000000,7,Gwyneth Paltrow,White,Jewish,USA,Straight,87.0,1000,Best Actress
+1999,108,Romance,13,0,Shakespeare in Love,25000000,7,Judi Dench,White,Quaker,USA,Straight,87.0,1000,Best Supporting Actress
+1999,108,Romance,13,0,Shakespeare in Love,25000000,7,Gwyneth Paltrow,White,Jewish,USA,Straight,87.0,1000,Best Actress
+2006,353,Drama,,0,The Constant Gardener,15000000,8,Rachel Weisz,White,Jewish,UK,Straight,,883,Best Supporting Actress
+2006,353,Drama,,0,The Constant Gardener,15000000,8,Rachel Weisz,White,Jewish,UK,Straight,,883,Best Supporting Actress
+2006,353,Drama,,0,The Constant Gardener,15000000,8,Rachel Weisz,White,Jewish,UK,Straight,,883,Best Supporting Actress
+2006,353,Drama,,0,The Constant Gardener,15000000,8,Rachel Weisz,White,Jewish,UK,Straight,,883,Best Supporting Actress
+2006,353,Mystery,,0,The Constant Gardener,15000000,8,Rachel Weisz,White,Jewish,UK,Straight,,883,Best Supporting Actress
+2006,353,Mystery,,0,The Constant Gardener,15000000,8,Rachel Weisz,White,Jewish,UK,Straight,,883,Best Supporting Actress
+2006,353,Mystery,,0,The Constant Gardener,15000000,8,Rachel Weisz,White,Jewish,UK,Straight,,883,Best Supporting Actress
+2006,353,Mystery,,0,The Constant Gardener,15000000,8,Rachel Weisz,White,Jewish,UK,Straight,,883,Best Supporting Actress
+2006,353,Romance,,0,The Constant Gardener,15000000,8,Rachel Weisz,White,Jewish,UK,Straight,,883,Best Supporting Actress
+2006,353,Romance,,0,The Constant Gardener,15000000,8,Rachel Weisz,White,Jewish,UK,Straight,,883,Best Supporting Actress
+2006,353,Romance,,0,The Constant Gardener,15000000,8,Rachel Weisz,White,Jewish,UK,Straight,,883,Best Supporting Actress
+2006,353,Romance,,0,The Constant Gardener,15000000,8,Rachel Weisz,White,Jewish,UK,Straight,,883,Best Supporting Actress
+2006,353,Thriller,,0,The Constant Gardener,15000000,8,Rachel Weisz,White,Jewish,UK,Straight,,883,Best Supporting Actress
+2006,353,Thriller,,0,The Constant Gardener,15000000,8,Rachel Weisz,White,Jewish,UK,Straight,,883,Best Supporting Actress
+2006,353,Thriller,,0,The Constant Gardener,15000000,8,Rachel Weisz,White,Jewish,UK,Straight,,883,Best Supporting Actress
+2006,353,Thriller,,0,The Constant Gardener,15000000,8,Rachel Weisz,White,Jewish,UK,Straight,,883,Best Supporting Actress
+1989,272,Drama,8,12000,Rain Man,25000000,8,Barry Levinson,White,Jewish,USA,Straight,65.0,10000,Best Director
+1989,272,Drama,8,12000,Rain Man,25000000,8,Barry Levinson,White,Jewish,USA,Straight,65.0,10000,Best Director
+1994,14000,Biography,12,41000,Schindler's List,22000000,9,Steven Spielberg,White,Jewish,USA,Straight,93.0,14000,Best Director
+1994,14000,Biography,12,41000,Schindler's List,22000000,9,Steven Spielberg,White,Jewish,USA,Straight,93.0,14000,Best Director
+1994,14000,Drama,12,41000,Schindler's List,22000000,9,Steven Spielberg,White,Jewish,USA,Straight,93.0,14000,Best Director
+1994,14000,Drama,12,41000,Schindler's List,22000000,9,Steven Spielberg,White,Jewish,USA,Straight,93.0,14000,Best Director
+1994,14000,History,12,41000,Schindler's List,22000000,9,Steven Spielberg,White,Jewish,USA,Straight,93.0,14000,Best Director
+1994,14000,History,12,41000,Schindler's List,22000000,9,Steven Spielberg,White,Jewish,USA,Straight,93.0,14000,Best Director
+2012,150,Drama,,75000,The Help,25000000,8,Octavia Spencer,Black,Na,USA,Na,,15000,Best Supporting Actress
+2012,150,Drama,,75000,The Help,25000000,8,Octavia Spencer,Black,Na,USA,Na,,15000,Best Supporting Actress
+1988,0,Crime,,0,The Untouchables,25000000,8,Sean Connery,White,Roman Catholic,USA,Straight,,22000,Best Supporting Actor
+1988,0,Crime,,0,The Untouchables,25000000,8,Sean Connery,White,Roman Catholic,USA,Straight,,22000,Best Supporting Actor
+1988,0,Drama,,0,The Untouchables,25000000,8,Sean Connery,White,Roman Catholic,USA,Straight,,22000,Best Supporting Actor
+1988,0,Drama,,0,The Untouchables,25000000,8,Sean Connery,White,Roman Catholic,USA,Straight,,22000,Best Supporting Actor
+1988,0,Thriller,,0,The Untouchables,25000000,8,Sean Connery,White,Roman Catholic,USA,Straight,,22000,Best Supporting Actor
+1988,0,Thriller,,0,The Untouchables,25000000,8,Sean Connery,White,Roman Catholic,USA,Straight,,22000,Best Supporting Actor
+2008,1000,Crime,8,21000,No Country for Old Men,25000000,8,Joel Coen,White,Jewish,USA,Straight,91.0,2000,Best Director
+2008,1000,Crime,8,21000,No Country for Old Men,25000000,8,Ethan Coen,White,Jewish,USA,Straight,91.0,2000,Best Director
+2008,1000,Crime,8,21000,No Country for Old Men,25000000,8,Javier Bardem,Hispanic,Na,USA,Straight,91.0,2000,Best Supporting Actor
+2008,1000,Crime,8,21000,No Country for Old Men,25000000,8,Joel Coen,White,Jewish,USA,Straight,91.0,2000,Best Director
+2008,1000,Crime,8,21000,No Country for Old Men,25000000,8,Ethan Coen,White,Jewish,USA,Straight,91.0,2000,Best Director
+2008,1000,Crime,8,21000,No Country for Old Men,25000000,8,Javier Bardem,Hispanic,Na,USA,Straight,91.0,2000,Best Supporting Actor
+2008,1000,Drama,8,21000,No Country for Old Men,25000000,8,Joel Coen,White,Jewish,USA,Straight,91.0,2000,Best Director
+2008,1000,Drama,8,21000,No Country for Old Men,25000000,8,Ethan Coen,White,Jewish,USA,Straight,91.0,2000,Best Director
+2008,1000,Drama,8,21000,No Country for Old Men,25000000,8,Javier Bardem,Hispanic,Na,USA,Straight,91.0,2000,Best Supporting Actor
+2008,1000,Drama,8,21000,No Country for Old Men,25000000,8,Joel Coen,White,Jewish,USA,Straight,91.0,2000,Best Director
+2008,1000,Drama,8,21000,No Country for Old Men,25000000,8,Ethan Coen,White,Jewish,USA,Straight,91.0,2000,Best Director
+2008,1000,Drama,8,21000,No Country for Old Men,25000000,8,Javier Bardem,Hispanic,Na,USA,Straight,91.0,2000,Best Supporting Actor
+2008,1000,Thriller,8,21000,No Country for Old Men,25000000,8,Joel Coen,White,Jewish,USA,Straight,91.0,2000,Best Director
+2008,1000,Thriller,8,21000,No Country for Old Men,25000000,8,Ethan Coen,White,Jewish,USA,Straight,91.0,2000,Best Director
+2008,1000,Thriller,8,21000,No Country for Old Men,25000000,8,Javier Bardem,Hispanic,Na,USA,Straight,91.0,2000,Best Supporting Actor
+2008,1000,Thriller,8,21000,No Country for Old Men,25000000,8,Joel Coen,White,Jewish,USA,Straight,91.0,2000,Best Director
+2008,1000,Thriller,8,21000,No Country for Old Men,25000000,8,Ethan Coen,White,Jewish,USA,Straight,91.0,2000,Best Director
+2008,1000,Thriller,8,21000,No Country for Old Men,25000000,8,Javier Bardem,Hispanic,Na,USA,Straight,91.0,2000,Best Supporting Actor
+1988,973,Biography,9,0,The Last Emperor,23000000,8,Bernardo Bertolucci,White,Na,China,Straight,76.0,1000,Best Director
+1988,973,Biography,9,0,The Last Emperor,23000000,8,Bernardo Bertolucci,White,Na,China,Straight,76.0,1000,Best Director
+1988,973,Drama,9,0,The Last Emperor,23000000,8,Bernardo Bertolucci,White,Na,China,Straight,76.0,1000,Best Director
+1988,973,Drama,9,0,The Last Emperor,23000000,8,Bernardo Bertolucci,White,Na,China,Straight,76.0,1000,Best Director
+1988,973,History,9,0,The Last Emperor,23000000,8,Bernardo Bertolucci,White,Na,China,Straight,76.0,1000,Best Director
+1988,973,History,9,0,The Last Emperor,23000000,8,Bernardo Bertolucci,White,Na,China,Straight,76.0,1000,Best Director
+2008,0,Drama,8,16000,There Will Be Blood,25000000,8,Daniel Day-Lewis,White,Na,USA,Straight,92.0,272,Best Actor
+2008,0,Drama,8,16000,There Will Be Blood,25000000,8,Daniel Day-Lewis,White,Na,USA,Straight,92.0,272,Best Actor
+2003,335,Drama,9,0,The Hours,25000000,8,Nicole Kidman,White,Roman Catholic,USA,Straight,81.0,11000,Best Actress
+2003,335,Drama,9,0,The Hours,25000000,8,Nicole Kidman,White,Roman Catholic,USA,Straight,81.0,11000,Best Actress
+2003,335,Romance,9,0,The Hours,25000000,8,Nicole Kidman,White,Roman Catholic,USA,Straight,81.0,11000,Best Actress
+2003,335,Romance,9,0,The Hours,25000000,8,Nicole Kidman,White,Roman Catholic,USA,Straight,81.0,11000,Best Actress
+1992,0,Comedy,,12000,The Fisher King,24000000,8,Mercedes Ruehl,Hispanic,Roman Catholic,USA,Straight,,12000,Best Supporting Actress
+1992,0,Comedy,,12000,The Fisher King,24000000,8,Mercedes Ruehl,Hispanic,Roman Catholic,USA,Straight,,12000,Best Supporting Actress
+1992,0,Drama,,12000,The Fisher King,24000000,8,Mercedes Ruehl,Hispanic,Roman Catholic,USA,Straight,,12000,Best Supporting Actress
+1992,0,Drama,,12000,The Fisher King,24000000,8,Mercedes Ruehl,Hispanic,Roman Catholic,USA,Straight,,12000,Best Supporting Actress
+1992,0,Fantasy,,12000,The Fisher King,24000000,8,Mercedes Ruehl,Hispanic,Roman Catholic,USA,Straight,,12000,Best Supporting Actress
+1992,0,Fantasy,,12000,The Fisher King,24000000,8,Mercedes Ruehl,Hispanic,Roman Catholic,USA,Straight,,12000,Best Supporting Actress
+2000,446,Biography,,0,"Girl, Interrupted",24000000,7,Angelina Jolie,White,Buddhist,USA,Bisexual,,11000,Best Supporting Actress
+2000,446,Biography,,0,"Girl, Interrupted",24000000,7,Angelina Jolie,White,Buddhist,USA,Bisexual,,11000,Best Supporting Actress
+2000,446,Biography,,0,"Girl, Interrupted",24000000,7,Angelina Jolie,White,Buddhist,USA,Bisexual,,11000,Best Supporting Actress
+2000,446,Biography,,0,"Girl, Interrupted",24000000,7,Angelina Jolie,White,Buddhist,USA,Bisexual,,11000,Best Supporting Actress
+2000,446,Drama,,0,"Girl, Interrupted",24000000,7,Angelina Jolie,White,Buddhist,USA,Bisexual,,11000,Best Supporting Actress
+2000,446,Drama,,0,"Girl, Interrupted",24000000,7,Angelina Jolie,White,Buddhist,USA,Bisexual,,11000,Best Supporting Actress
+2000,446,Drama,,0,"Girl, Interrupted",24000000,7,Angelina Jolie,White,Buddhist,USA,Bisexual,,11000,Best Supporting Actress
+2000,446,Drama,,0,"Girl, Interrupted",24000000,7,Angelina Jolie,White,Buddhist,USA,Bisexual,,11000,Best Supporting Actress
+1991,109,Drama,,0,Ghost,22000000,7,Whoopi Goldberg,Black,Atheist,USA,Straight,,2000,Best Supporting Actress
+1991,109,Drama,,0,Ghost,22000000,7,Whoopi Goldberg,Black,Atheist,USA,Straight,,2000,Best Supporting Actress
+1991,109,Fantasy,,0,Ghost,22000000,7,Whoopi Goldberg,Black,Atheist,USA,Straight,,2000,Best Supporting Actress
+1991,109,Fantasy,,0,Ghost,22000000,7,Whoopi Goldberg,Black,Atheist,USA,Straight,,2000,Best Supporting Actress
+1991,109,Romance,,0,Ghost,22000000,7,Whoopi Goldberg,Black,Atheist,USA,Straight,,2000,Best Supporting Actress
+1991,109,Romance,,0,Ghost,22000000,7,Whoopi Goldberg,Black,Atheist,USA,Straight,,2000,Best Supporting Actress
+1991,109,Thriller,,0,Ghost,22000000,7,Whoopi Goldberg,Black,Atheist,USA,Straight,,2000,Best Supporting Actress
+1991,109,Thriller,,0,Ghost,22000000,7,Whoopi Goldberg,Black,Atheist,USA,Straight,,2000,Best Supporting Actress
+1982,0,Biography,11,12000,Gandhi,22000000,8,Richard Attenborough,White,Na,UK,Straight,0.0,545,Best Director
+1983,0,Biography,11,12000,Gandhi,22000000,8,Ben Kingsley,Multiracial,Quaker,UK,Straight,0.0,545,Best Actor
+1982,0,Biography,11,12000,Gandhi,22000000,8,Richard Attenborough,White,Na,UK,Straight,0.0,545,Best Director
+1983,0,Biography,11,12000,Gandhi,22000000,8,Ben Kingsley,Multiracial,Quaker,UK,Straight,0.0,545,Best Actor
+1982,0,Drama,11,12000,Gandhi,22000000,8,Richard Attenborough,White,Na,UK,Straight,0.0,545,Best Director
+1983,0,Drama,11,12000,Gandhi,22000000,8,Ben Kingsley,Multiracial,Quaker,UK,Straight,0.0,545,Best Actor
+1982,0,Drama,11,12000,Gandhi,22000000,8,Richard Attenborough,White,Na,UK,Straight,0.0,545,Best Director
+1983,0,Drama,11,12000,Gandhi,22000000,8,Ben Kingsley,Multiracial,Quaker,UK,Straight,0.0,545,Best Actor
+1982,0,History,11,12000,Gandhi,22000000,8,Richard Attenborough,White,Na,UK,Straight,0.0,545,Best Director
+1983,0,History,11,12000,Gandhi,22000000,8,Ben Kingsley,Multiracial,Quaker,UK,Straight,0.0,545,Best Actor
+1982,0,History,11,12000,Gandhi,22000000,8,Richard Attenborough,White,Na,UK,Straight,0.0,545,Best Director
+1983,0,History,11,12000,Gandhi,22000000,8,Ben Kingsley,Multiracial,Quaker,UK,Straight,0.0,545,Best Actor
+2007,209,Crime,,0,Michael Clayton,25000000,7,Tilda Swinton,White,Na,USA,Straight,,1000,Best Supporting Actress
+2007,209,Crime,,0,Michael Clayton,25000000,7,Tilda Swinton,White,Na,USA,Straight,,1000,Best Supporting Actress
+2007,209,Drama,,0,Michael Clayton,25000000,7,Tilda Swinton,White,Na,USA,Straight,,1000,Best Supporting Actress
+2007,209,Drama,,0,Michael Clayton,25000000,7,Tilda Swinton,White,Na,USA,Straight,,1000,Best Supporting Actress
+2007,209,Mystery,,0,Michael Clayton,25000000,7,Tilda Swinton,White,Na,USA,Straight,,1000,Best Supporting Actress
+2007,209,Mystery,,0,Michael Clayton,25000000,7,Tilda Swinton,White,Na,USA,Straight,,1000,Best Supporting Actress
+2007,209,Thriller,,0,Michael Clayton,25000000,7,Tilda Swinton,White,Na,USA,Straight,,1000,Best Supporting Actress
+2007,209,Thriller,,0,Michael Clayton,25000000,7,Tilda Swinton,White,Na,USA,Straight,,1000,Best Supporting Actress
+2013,737,Comedy,8,117000,Silver Linings Playbook,21000000,8,Jennifer Lawrence,White,Na,USA,Na,81.0,34000,Best Actress
+2013,737,Comedy,8,117000,Silver Linings Playbook,21000000,8,Jennifer Lawrence,White,Na,USA,Na,81.0,34000,Best Actress
+2013,737,Drama,8,117000,Silver Linings Playbook,21000000,8,Jennifer Lawrence,White,Na,USA,Na,81.0,34000,Best Actress
+2013,737,Drama,8,117000,Silver Linings Playbook,21000000,8,Jennifer Lawrence,White,Na,USA,Na,81.0,34000,Best Actress
+2013,737,Romance,8,117000,Silver Linings Playbook,21000000,8,Jennifer Lawrence,White,Na,USA,Na,81.0,34000,Best Actress
+2013,737,Romance,8,117000,Silver Linings Playbook,21000000,8,Jennifer Lawrence,White,Na,USA,Na,81.0,34000,Best Actress
+1992,438,Crime,7,40000,The Silence of the Lambs,19000000,9,Jonathan Demme,White,Na,USA,Straight,84.0,12000,Best Director
+1992,438,Crime,7,40000,The Silence of the Lambs,19000000,9,Jodie Foster,White,Atheist,USA,Lesbian,84.0,12000,Best Actress
+1992,438,Crime,7,40000,The Silence of the Lambs,19000000,9,Jonathan Demme,White,Na,USA,Straight,84.0,12000,Best Director
+1992,438,Crime,7,40000,The Silence of the Lambs,19000000,9,Jodie Foster,White,Atheist,USA,Lesbian,84.0,12000,Best Actress
+1992,438,Drama,7,40000,The Silence of the Lambs,19000000,9,Jonathan Demme,White,Na,USA,Straight,84.0,12000,Best Director
+1992,438,Drama,7,40000,The Silence of the Lambs,19000000,9,Jodie Foster,White,Atheist,USA,Lesbian,84.0,12000,Best Actress
+1992,438,Drama,7,40000,The Silence of the Lambs,19000000,9,Jonathan Demme,White,Na,USA,Straight,84.0,12000,Best Director
+1992,438,Drama,7,40000,The Silence of the Lambs,19000000,9,Jodie Foster,White,Atheist,USA,Lesbian,84.0,12000,Best Actress
+1992,438,Horror,7,40000,The Silence of the Lambs,19000000,9,Jonathan Demme,White,Na,USA,Straight,84.0,12000,Best Director
+1992,438,Horror,7,40000,The Silence of the Lambs,19000000,9,Jodie Foster,White,Atheist,USA,Lesbian,84.0,12000,Best Actress
+1992,438,Horror,7,40000,The Silence of the Lambs,19000000,9,Jonathan Demme,White,Na,USA,Straight,84.0,12000,Best Director
+1992,438,Horror,7,40000,The Silence of the Lambs,19000000,9,Jodie Foster,White,Atheist,USA,Lesbian,84.0,12000,Best Actress
+1992,438,Thriller,7,40000,The Silence of the Lambs,19000000,9,Jonathan Demme,White,Na,USA,Straight,84.0,12000,Best Director
+1992,438,Thriller,7,40000,The Silence of the Lambs,19000000,9,Jodie Foster,White,Atheist,USA,Lesbian,84.0,12000,Best Actress
+1992,438,Thriller,7,40000,The Silence of the Lambs,19000000,9,Jonathan Demme,White,Na,USA,Straight,84.0,12000,Best Director
+1992,438,Thriller,7,40000,The Silence of the Lambs,19000000,9,Jodie Foster,White,Atheist,USA,Lesbian,84.0,12000,Best Actress
+2014,0,Biography,,83000,12 Years a Slave,20000000,8,Lupita Nyong'o,Black,Na,USA,Na,,2000,Best Supporting Actress
+2014,0,Biography,,83000,12 Years a Slave,20000000,8,Lupita Nyong'o,Black,Na,USA,Na,,2000,Best Supporting Actress
+2014,0,Drama,,83000,12 Years a Slave,20000000,8,Lupita Nyong'o,Black,Na,USA,Na,,2000,Best Supporting Actress
+2014,0,Drama,,83000,12 Years a Slave,20000000,8,Lupita Nyong'o,Black,Na,USA,Na,,2000,Best Supporting Actress
+2014,0,History,,83000,12 Years a Slave,20000000,8,Lupita Nyong'o,Black,Na,USA,Na,,2000,Best Supporting Actress
+2014,0,History,,83000,12 Years a Slave,20000000,8,Lupita Nyong'o,Black,Na,USA,Na,,2000,Best Supporting Actress
+1972,607,Action,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Action,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Action,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Action,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Action,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Action,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Action,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Action,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Crime,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Crime,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Crime,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Crime,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Crime,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Crime,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Crime,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Crime,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Drama,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Drama,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Drama,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Drama,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Drama,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Drama,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Drama,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Drama,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Thriller,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Thriller,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Thriller,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Thriller,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Thriller,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Thriller,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Thriller,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Thriller,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+2009,835,Biography,8,10000,Milk,20000000,8,Sean Penn,White,Roman Catholic,USA,Straight,84.0,11000,Best Actor
+2009,835,Biography,8,10000,Milk,20000000,8,Sean Penn,White,Roman Catholic,USA,Straight,84.0,11000,Best Actor
+2009,835,Drama,8,10000,Milk,20000000,8,Sean Penn,White,Roman Catholic,USA,Straight,84.0,11000,Best Actor
+2009,835,Drama,8,10000,Milk,20000000,8,Sean Penn,White,Roman Catholic,USA,Straight,84.0,11000,Best Actor
+2009,835,History,8,10000,Milk,20000000,8,Sean Penn,White,Roman Catholic,USA,Straight,84.0,11000,Best Actor
+2009,835,History,8,10000,Milk,20000000,8,Sean Penn,White,Roman Catholic,USA,Straight,84.0,11000,Best Actor
+1995,11000,Comedy,,979,Bullets Over Broadway,20000000,8,Dianne Wiest,White,Na,USA,Straight,,1000,Best Supporting Actress
+1995,11000,Comedy,,979,Bullets Over Broadway,20000000,8,Dianne Wiest,White,Na,USA,Straight,,1000,Best Supporting Actress
+1995,11000,Crime,,979,Bullets Over Broadway,20000000,8,Dianne Wiest,White,Na,USA,Straight,,1000,Best Supporting Actress
+1995,11000,Crime,,979,Bullets Over Broadway,20000000,8,Dianne Wiest,White,Na,USA,Straight,,1000,Best Supporting Actress
+1991,0,Adventure,12,0,Dances with Wolves,22000000,8,Kevin Costner,White,Baptist,USA,Straight,72.0,933,Best Director
+1991,0,Adventure,12,0,Dances with Wolves,22000000,8,Kevin Costner,White,Baptist,USA,Straight,72.0,933,Best Director
+1991,0,Drama,12,0,Dances with Wolves,22000000,8,Kevin Costner,White,Baptist,USA,Straight,72.0,933,Best Director
+1991,0,Drama,12,0,Dances with Wolves,22000000,8,Kevin Costner,White,Baptist,USA,Straight,72.0,933,Best Director
+1991,0,Western,12,0,Dances with Wolves,22000000,8,Kevin Costner,White,Baptist,USA,Straight,72.0,933,Best Director
+1991,0,Western,12,0,Dances with Wolves,22000000,8,Kevin Costner,White,Baptist,USA,Straight,72.0,933,Best Director
+1985,869,Biography,11,16000,Amadeus,18000000,8,Milos Forman,White,Na,USA,Straight,93.0,692,Best Director
+1985,869,Biography,11,16000,Amadeus,18000000,8,F. Murray Abraham,Middle Eastern,Na,USA,Straight,93.0,692,Best Actor
+1985,869,Biography,11,16000,Amadeus,18000000,8,Milos Forman,White,Na,USA,Straight,93.0,692,Best Director
+1985,869,Biography,11,16000,Amadeus,18000000,8,F. Murray Abraham,Middle Eastern,Na,USA,Straight,93.0,692,Best Actor
+1985,869,Drama,11,16000,Amadeus,18000000,8,Milos Forman,White,Na,USA,Straight,93.0,692,Best Director
+1985,869,Drama,11,16000,Amadeus,18000000,8,F. Murray Abraham,Middle Eastern,Na,USA,Straight,93.0,692,Best Actor
+1985,869,Drama,11,16000,Amadeus,18000000,8,Milos Forman,White,Na,USA,Straight,93.0,692,Best Director
+1985,869,Drama,11,16000,Amadeus,18000000,8,F. Murray Abraham,Middle Eastern,Na,USA,Straight,93.0,692,Best Actor
+1985,869,History,11,16000,Amadeus,18000000,8,Milos Forman,White,Na,USA,Straight,93.0,692,Best Director
+1985,869,History,11,16000,Amadeus,18000000,8,F. Murray Abraham,Middle Eastern,Na,USA,Straight,93.0,692,Best Actor
+1985,869,History,11,16000,Amadeus,18000000,8,Milos Forman,White,Na,USA,Straight,93.0,692,Best Director
+1985,869,History,11,16000,Amadeus,18000000,8,F. Murray Abraham,Middle Eastern,Na,USA,Straight,93.0,692,Best Actor
+1985,869,Music,11,16000,Amadeus,18000000,8,Milos Forman,White,Na,USA,Straight,93.0,692,Best Director
+1985,869,Music,11,16000,Amadeus,18000000,8,F. Murray Abraham,Middle Eastern,Na,USA,Straight,93.0,692,Best Actor
+1985,869,Music,11,16000,Amadeus,18000000,8,Milos Forman,White,Na,USA,Straight,93.0,692,Best Director
+1985,869,Music,11,16000,Amadeus,18000000,8,F. Murray Abraham,Middle Eastern,Na,USA,Straight,93.0,692,Best Actor
+2014,11000,Drama,3,36000,Blue Jasmine,18000000,7,Cate Blanchett,White,Na,USA,Straight,78.0,594,Best Actress
+2014,11000,Drama,3,36000,Blue Jasmine,18000000,7,Cate Blanchett,White,Na,USA,Straight,78.0,594,Best Actress
+1990,380,Drama,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+1990,380,Drama,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+1990,380,Drama,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+1990,380,Drama,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+1990,380,History,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+1990,380,History,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+1990,380,History,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+1990,380,History,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+1990,380,War,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+1990,380,War,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+1990,380,War,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+1990,380,War,,0,Glory,18000000,8,Denzel Washington,Black,Protestant,USA,Straight,,18000,Best Supporting Actor
+1981,17000,Biography,8,0,Raging Bull,18000000,8,Robert De Niro,White,Roman Catholic,USA,Straight,92.0,22000,Best Actor
+1981,17000,Biography,8,0,Raging Bull,18000000,8,Robert De Niro,White,Roman Catholic,USA,Straight,92.0,22000,Best Actor
+1981,17000,Drama,8,0,Raging Bull,18000000,8,Robert De Niro,White,Roman Catholic,USA,Straight,92.0,22000,Best Actor
+1981,17000,Drama,8,0,Raging Bull,18000000,8,Robert De Niro,White,Roman Catholic,USA,Straight,92.0,22000,Best Actor
+1981,17000,Sport,8,0,Raging Bull,18000000,8,Robert De Niro,White,Roman Catholic,USA,Straight,92.0,22000,Best Actor
+1981,17000,Sport,8,0,Raging Bull,18000000,8,Robert De Niro,White,Roman Catholic,USA,Straight,92.0,22000,Best Actor
+1995,13000,Biography,,0,Ed Wood,18000000,8,Martin Landau,White,Jewish,USA,Straight,,40000,Best Supporting Actor
+1995,13000,Biography,,0,Ed Wood,18000000,8,Martin Landau,White,Jewish,USA,Straight,,40000,Best Supporting Actor
+1995,13000,Comedy,,0,Ed Wood,18000000,8,Martin Landau,White,Jewish,USA,Straight,,40000,Best Supporting Actor
+1995,13000,Comedy,,0,Ed Wood,18000000,8,Martin Landau,White,Jewish,USA,Straight,,40000,Best Supporting Actor
+1995,13000,Drama,,0,Ed Wood,18000000,8,Martin Landau,White,Jewish,USA,Straight,,40000,Best Supporting Actor
+1995,13000,Drama,,0,Ed Wood,18000000,8,Martin Landau,White,Jewish,USA,Straight,,40000,Best Supporting Actor
+1949,0,Drama,7,0,Hamlet,18000000,8,Laurence Olivier,White,Na,UK,Bisexual,0.0,597,Best Actor
+1949,0,Drama,7,0,Hamlet,18000000,8,Laurence Olivier,White,Na,UK,Bisexual,0.0,597,Best Actor
+1949,0,Drama,7,0,Hamlet,18000000,8,Laurence Olivier,White,Na,UK,Bisexual,0.0,597,Best Actor
+1949,0,Drama,7,0,Hamlet,18000000,8,Laurence Olivier,White,Na,UK,Bisexual,0.0,597,Best Actor
+1965,165,Drama,12,0,My Fair Lady,17000000,8,George Cukor,White,Na,USA,Gay,0.0,453,Best Director
+1965,165,Drama,12,0,My Fair Lady,17000000,8,Rex Harrison,White,Na,USA,Straight,0.0,453,Best Actor
+1965,165,Drama,12,0,My Fair Lady,17000000,8,George Cukor,White,Na,USA,Gay,0.0,453,Best Director
+1965,165,Drama,12,0,My Fair Lady,17000000,8,Rex Harrison,White,Na,USA,Straight,0.0,453,Best Actor
+1965,165,Family,12,0,My Fair Lady,17000000,8,George Cukor,White,Na,USA,Gay,0.0,453,Best Director
+1965,165,Family,12,0,My Fair Lady,17000000,8,Rex Harrison,White,Na,USA,Straight,0.0,453,Best Actor
+1965,165,Family,12,0,My Fair Lady,17000000,8,George Cukor,White,Na,USA,Gay,0.0,453,Best Director
+1965,165,Family,12,0,My Fair Lady,17000000,8,Rex Harrison,White,Na,USA,Straight,0.0,453,Best Actor
+1965,165,Musical,12,0,My Fair Lady,17000000,8,George Cukor,White,Na,USA,Gay,0.0,453,Best Director
+1965,165,Musical,12,0,My Fair Lady,17000000,8,Rex Harrison,White,Na,USA,Straight,0.0,453,Best Actor
+1965,165,Musical,12,0,My Fair Lady,17000000,8,George Cukor,White,Na,USA,Gay,0.0,453,Best Director
+1965,165,Musical,12,0,My Fair Lady,17000000,8,Rex Harrison,White,Na,USA,Straight,0.0,453,Best Actor
+1965,165,Romance,12,0,My Fair Lady,17000000,8,George Cukor,White,Na,USA,Gay,0.0,453,Best Director
+1965,165,Romance,12,0,My Fair Lady,17000000,8,Rex Harrison,White,Na,USA,Straight,0.0,453,Best Actor
+1965,165,Romance,12,0,My Fair Lady,17000000,8,George Cukor,White,Na,USA,Gay,0.0,453,Best Director
+1965,165,Romance,12,0,My Fair Lady,17000000,8,Rex Harrison,White,Na,USA,Straight,0.0,453,Best Actor
+1988,0,Crime,0,0,Wall Street,15000000,7,Michael Douglas,White,Jewish,USA,Straight,56.0,826,Best Actor
+1988,0,Crime,0,0,Wall Street,15000000,7,Michael Douglas,White,Jewish,USA,Straight,56.0,826,Best Actor
+1988,0,Drama,0,0,Wall Street,15000000,7,Michael Douglas,White,Jewish,USA,Straight,56.0,826,Best Actor
+1988,0,Drama,0,0,Wall Street,15000000,7,Michael Douglas,White,Jewish,USA,Straight,56.0,826,Best Actor
+2012,405,Comedy,10,30000,The Artist,15000000,8,Michel Hazanavicius,White,Jewish,France,Straight,89.0,996,Best Director
+2012,405,Comedy,10,30000,The Artist,15000000,8,Jean Dujardin,White,Na,France,Straight,89.0,996,Best Actor
+2012,405,Comedy,10,30000,The Artist,15000000,8,Michel Hazanavicius,White,Jewish,France,Straight,89.0,996,Best Director
+2012,405,Comedy,10,30000,The Artist,15000000,8,Jean Dujardin,White,Na,France,Straight,89.0,996,Best Actor
+2012,405,Drama,10,30000,The Artist,15000000,8,Michel Hazanavicius,White,Jewish,France,Straight,89.0,996,Best Director
+2012,405,Drama,10,30000,The Artist,15000000,8,Jean Dujardin,White,Na,France,Straight,89.0,996,Best Actor
+2012,405,Drama,10,30000,The Artist,15000000,8,Michel Hazanavicius,White,Jewish,France,Straight,89.0,996,Best Director
+2012,405,Drama,10,30000,The Artist,15000000,8,Jean Dujardin,White,Na,France,Straight,89.0,996,Best Actor
+2012,405,Romance,10,30000,The Artist,15000000,8,Michel Hazanavicius,White,Jewish,France,Straight,89.0,996,Best Director
+2012,405,Romance,10,30000,The Artist,15000000,8,Jean Dujardin,White,Na,France,Straight,89.0,996,Best Actor
+2012,405,Romance,10,30000,The Artist,15000000,8,Michel Hazanavicius,White,Jewish,France,Straight,89.0,996,Best Director
+2012,405,Romance,10,30000,The Artist,15000000,8,Jean Dujardin,White,Na,France,Straight,89.0,996,Best Actor
+2009,11000,Drama,,14000,Vicky Cristina Barcelona,15500000,7,Penelope Cruz,Hispanic,Buddhist,Spain,Straight,,19000,Best Supporting Actress
+2009,11000,Drama,,14000,Vicky Cristina Barcelona,15500000,7,Penelope Cruz,Hispanic,Buddhist,Spain,Straight,,19000,Best Supporting Actress
+2009,11000,Romance,,14000,Vicky Cristina Barcelona,15500000,7,Penelope Cruz,Hispanic,Buddhist,Spain,Straight,,19000,Best Supporting Actress
+2009,11000,Romance,,14000,Vicky Cristina Barcelona,15500000,7,Penelope Cruz,Hispanic,Buddhist,Spain,Straight,,19000,Best Supporting Actress
+1994,438,Drama,5,0,Philadelphia,26000000,8,Tom Hanks,White,Born-Again Christian,USA,Straight,66.0,18000,Best Actor
+1994,438,Drama,5,0,Philadelphia,26000000,8,Tom Hanks,White,Born-Again Christian,USA,Straight,66.0,18000,Best Actor
+1994,438,Drama,5,0,Philadelphia,26000000,8,Tom Hanks,White,Born-Again Christian,USA,Straight,66.0,18000,Best Actor
+1994,438,Drama,5,0,Philadelphia,26000000,8,Tom Hanks,White,Born-Again Christian,USA,Straight,66.0,18000,Best Actor
+1983,521,Comedy,,0,Tootsie,22000000,7,Jessica Lange,White,Na,USA,Straight,,13000,Best Supporting Actress
+1983,521,Comedy,,0,Tootsie,22000000,7,Jessica Lange,White,Na,USA,Straight,,13000,Best Supporting Actress
+1983,521,Drama,,0,Tootsie,22000000,7,Jessica Lange,White,Na,USA,Straight,,13000,Best Supporting Actress
+1983,521,Drama,,0,Tootsie,22000000,7,Jessica Lange,White,Na,USA,Straight,,13000,Best Supporting Actress
+1983,521,Romance,,0,Tootsie,22000000,7,Jessica Lange,White,Na,USA,Straight,,13000,Best Supporting Actress
+1983,521,Romance,,0,Tootsie,22000000,7,Jessica Lange,White,Na,USA,Straight,,13000,Best Supporting Actress
+2000,0,Drama,8,22000,American Beauty,15000000,8,Sam Mendes,White,Na,USA,Straight,86.0,18000,Best Director
+2000,0,Drama,8,22000,American Beauty,15000000,8,Kevin Spacey,White,Na,USA,Matter of Dispute,86.0,18000,Best Actor
+2000,0,Drama,8,22000,American Beauty,15000000,8,Sam Mendes,White,Na,USA,Straight,86.0,18000,Best Director
+2000,0,Drama,8,22000,American Beauty,15000000,8,Kevin Spacey,White,Na,USA,Matter of Dispute,86.0,18000,Best Actor
+2011,0,Biography,12,64000,The King's Speech,15000000,8,Tom Hooper,White,Na,UK,Na,88.0,14000,Best Director
+2011,0,Biography,12,64000,The King's Speech,15000000,8,Colin Firth,White,Na,UK,Straight,88.0,14000,Best Actor
+2011,0,Biography,12,64000,The King's Speech,15000000,8,Tom Hooper,White,Na,UK,Na,88.0,14000,Best Director
+2011,0,Biography,12,64000,The King's Speech,15000000,8,Colin Firth,White,Na,UK,Straight,88.0,14000,Best Actor
+2011,0,Drama,12,64000,The King's Speech,15000000,8,Tom Hooper,White,Na,UK,Na,88.0,14000,Best Director
+2011,0,Drama,12,64000,The King's Speech,15000000,8,Colin Firth,White,Na,UK,Straight,88.0,14000,Best Actor
+2011,0,Drama,12,64000,The King's Speech,15000000,8,Tom Hooper,White,Na,UK,Na,88.0,14000,Best Director
+2011,0,Drama,12,64000,The King's Speech,15000000,8,Colin Firth,White,Na,UK,Straight,88.0,14000,Best Actor
+2011,0,History,12,64000,The King's Speech,15000000,8,Tom Hooper,White,Na,UK,Na,88.0,14000,Best Director
+2011,0,History,12,64000,The King's Speech,15000000,8,Colin Firth,White,Na,UK,Straight,88.0,14000,Best Actor
+2011,0,History,12,64000,The King's Speech,15000000,8,Tom Hooper,White,Na,UK,Na,88.0,14000,Best Director
+2011,0,History,12,64000,The King's Speech,15000000,8,Colin Firth,White,Na,UK,Straight,88.0,14000,Best Actor
+2011,0,Romance,12,64000,The King's Speech,15000000,8,Tom Hooper,White,Na,UK,Na,88.0,14000,Best Director
+2011,0,Romance,12,64000,The King's Speech,15000000,8,Colin Firth,White,Na,UK,Straight,88.0,14000,Best Actor
+2011,0,Romance,12,64000,The King's Speech,15000000,8,Tom Hooper,White,Na,UK,Na,88.0,14000,Best Director
+2011,0,Romance,12,64000,The King's Speech,15000000,8,Colin Firth,White,Na,UK,Straight,88.0,14000,Best Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Adventure,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Adventure,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Adventure,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Adventure,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Adventure,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Adventure,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Drama,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Drama,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Drama,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Drama,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Drama,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Drama,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,History,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,History,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,History,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,History,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,History,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,History,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,History,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,History,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,History,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,History,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,History,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,History,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,History,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,History,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,History,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,History,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,History,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,History,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1981,150,Biography,7,0,Coal Miner's Daughter,0,8,Sissy Spacek,White,Na,USA,Straight,0.0,874,Best Actress
+1981,150,Biography,7,0,Coal Miner's Daughter,0,8,Sissy Spacek,White,Na,USA,Straight,0.0,874,Best Actress
+1981,150,Drama,7,0,Coal Miner's Daughter,0,8,Sissy Spacek,White,Na,USA,Straight,0.0,874,Best Actress
+1981,150,Drama,7,0,Coal Miner's Daughter,0,8,Sissy Spacek,White,Na,USA,Straight,0.0,874,Best Actress
+1981,150,Music,7,0,Coal Miner's Daughter,0,8,Sissy Spacek,White,Na,USA,Straight,0.0,874,Best Actress
+1981,150,Music,7,0,Coal Miner's Daughter,0,8,Sissy Spacek,White,Na,USA,Straight,0.0,874,Best Actress
+1981,150,Musical,7,0,Coal Miner's Daughter,0,8,Sissy Spacek,White,Na,USA,Straight,0.0,874,Best Actress
+1981,150,Musical,7,0,Coal Miner's Daughter,0,8,Sissy Spacek,White,Na,USA,Straight,0.0,874,Best Actress
+2007,350,Biography,6,0,The Queen,9800000,7,Helen Mirren,White,Na,UK,Straight,91.0,326,Best Actress
+2007,350,Biography,6,0,The Queen,9800000,7,Helen Mirren,White,Na,UK,Straight,91.0,326,Best Actress
+2007,350,Drama,6,0,The Queen,9800000,7,Helen Mirren,White,Na,UK,Straight,91.0,326,Best Actress
+2007,350,Drama,6,0,The Queen,9800000,7,Helen Mirren,White,Na,UK,Straight,91.0,326,Best Actress
+1979,517,Drama,9,11000,The Deer Hunter,15000000,8,Michael Cimino,White,Na,UK,Straight,73.0,22000,Best Director
+1979,517,Drama,9,11000,The Deer Hunter,15000000,8,Christopher Walken,White,Na,UK,Straight,73.0,22000,Best Supporting Actor
+1979,517,Drama,9,11000,The Deer Hunter,15000000,8,Michael Cimino,White,Na,UK,Straight,73.0,22000,Best Director
+1979,517,Drama,9,11000,The Deer Hunter,15000000,8,Michael Cimino,White,Na,UK,Straight,73.0,22000,Best Director
+1979,517,Drama,9,11000,The Deer Hunter,15000000,8,Christopher Walken,White,Na,UK,Straight,73.0,22000,Best Supporting Actor
+1979,517,Drama,9,11000,The Deer Hunter,15000000,8,Michael Cimino,White,Na,UK,Straight,73.0,22000,Best Director
+1979,517,War,9,11000,The Deer Hunter,15000000,8,Michael Cimino,White,Na,UK,Straight,73.0,22000,Best Director
+1979,517,War,9,11000,The Deer Hunter,15000000,8,Christopher Walken,White,Na,UK,Straight,73.0,22000,Best Supporting Actor
+1979,517,War,9,11000,The Deer Hunter,15000000,8,Michael Cimino,White,Na,UK,Straight,73.0,22000,Best Director
+1979,517,War,9,11000,The Deer Hunter,15000000,8,Michael Cimino,White,Na,UK,Straight,73.0,22000,Best Director
+1979,517,War,9,11000,The Deer Hunter,15000000,8,Christopher Walken,White,Na,UK,Straight,73.0,22000,Best Supporting Actor
+1979,517,War,9,11000,The Deer Hunter,15000000,8,Michael Cimino,White,Na,UK,Straight,73.0,22000,Best Director
+1963,767,Adventure,10,11000,Lawrence of Arabia,15000000,8,David Lean,White,Na,UK,Straight,100.0,607,Best Director
+1963,767,Adventure,10,11000,Lawrence of Arabia,15000000,8,David Lean,White,Na,UK,Straight,100.0,607,Best Director
+1963,767,Biography,10,11000,Lawrence of Arabia,15000000,8,David Lean,White,Na,UK,Straight,100.0,607,Best Director
+1963,767,Biography,10,11000,Lawrence of Arabia,15000000,8,David Lean,White,Na,UK,Straight,100.0,607,Best Director
+1963,767,Drama,10,11000,Lawrence of Arabia,15000000,8,David Lean,White,Na,UK,Straight,100.0,607,Best Director
+1963,767,Drama,10,11000,Lawrence of Arabia,15000000,8,David Lean,White,Na,UK,Straight,100.0,607,Best Director
+1963,767,History,10,11000,Lawrence of Arabia,15000000,8,David Lean,White,Na,UK,Straight,100.0,607,Best Director
+1963,767,History,10,11000,Lawrence of Arabia,15000000,8,David Lean,White,Na,UK,Straight,100.0,607,Best Director
+1963,767,War,10,11000,Lawrence of Arabia,15000000,8,David Lean,White,Na,UK,Straight,100.0,607,Best Director
+1963,767,War,10,11000,Lawrence of Arabia,15000000,8,David Lean,White,Na,UK,Straight,100.0,607,Best Director
+2009,0,Drama,9,16000,The Hurt Locker,15000000,8,Kathryn Bigelow,White,Na,USA,Straight,94.0,10000,Best Director
+2009,0,Drama,9,16000,The Hurt Locker,15000000,8,Kathryn Bigelow,White,Na,USA,Straight,94.0,10000,Best Director
+2009,0,History,9,16000,The Hurt Locker,15000000,8,Kathryn Bigelow,White,Na,USA,Straight,94.0,10000,Best Director
+2009,0,History,9,16000,The Hurt Locker,15000000,8,Kathryn Bigelow,White,Na,USA,Straight,94.0,10000,Best Director
+2009,0,Thriller,9,16000,The Hurt Locker,15000000,8,Kathryn Bigelow,White,Na,USA,Straight,94.0,10000,Best Director
+2009,0,Thriller,9,16000,The Hurt Locker,15000000,8,Kathryn Bigelow,White,Na,USA,Straight,94.0,10000,Best Director
+2009,0,War,9,16000,The Hurt Locker,15000000,8,Kathryn Bigelow,White,Na,USA,Straight,94.0,10000,Best Director
+2009,0,War,9,16000,The Hurt Locker,15000000,8,Kathryn Bigelow,White,Na,USA,Straight,94.0,10000,Best Director
+1993,16000,Drama,10,10000,Unforgiven,14400000,8,Clint Eastwood,White,Na,USA,Straight,82.0,16000,Best Director
+1993,16000,Drama,10,10000,Unforgiven,14400000,8,Gene Hackman,White,Na,USA,Straight,82.0,16000,Best Supporting Actor
+1993,16000,Drama,10,10000,Unforgiven,14400000,8,Clint Eastwood,White,Na,USA,Straight,82.0,16000,Best Director
+1993,16000,Drama,10,10000,Unforgiven,14400000,8,Gene Hackman,White,Na,USA,Straight,82.0,16000,Best Supporting Actor
+1993,16000,Western,10,10000,Unforgiven,14400000,8,Clint Eastwood,White,Na,USA,Straight,82.0,16000,Best Director
+1993,16000,Western,10,10000,Unforgiven,14400000,8,Gene Hackman,White,Na,USA,Straight,82.0,16000,Best Supporting Actor
+1993,16000,Western,10,10000,Unforgiven,14400000,8,Clint Eastwood,White,Na,USA,Straight,82.0,16000,Best Director
+1993,16000,Western,10,10000,Unforgiven,14400000,8,Gene Hackman,White,Na,USA,Straight,82.0,16000,Best Supporting Actor
+2009,0,Drama,10,13000,Slumdog Millionaire,15000000,8,Danny Boyle,White,Roman Catholic,UK,Straight,86.0,668,Best Director
+2009,0,Drama,10,13000,Slumdog Millionaire,15000000,8,Danny Boyle,White,Roman Catholic,UK,Straight,86.0,668,Best Director
+2009,0,Drama,10,13000,Slumdog Millionaire,15000000,8,Danny Boyle,White,Roman Catholic,UK,Straight,86.0,668,Best Director
+2009,0,Drama,10,13000,Slumdog Millionaire,15000000,8,Danny Boyle,White,Roman Catholic,UK,Straight,86.0,668,Best Director
+2009,0,Romance,10,13000,Slumdog Millionaire,15000000,8,Danny Boyle,White,Roman Catholic,UK,Straight,86.0,668,Best Director
+2009,0,Romance,10,13000,Slumdog Millionaire,15000000,8,Danny Boyle,White,Roman Catholic,UK,Straight,86.0,668,Best Director
+2009,0,Romance,10,13000,Slumdog Millionaire,15000000,8,Danny Boyle,White,Roman Catholic,UK,Straight,86.0,668,Best Director
+2009,0,Romance,10,13000,Slumdog Millionaire,15000000,8,Danny Boyle,White,Roman Catholic,UK,Straight,86.0,668,Best Director
+1990,0,Biography,8,4000,Born on the Fourth of July,14000000,7,Oliver Stone,White,Atheist,USA,Straight,75.0,10000,Best Director
+1990,0,Biography,8,4000,Born on the Fourth of July,14000000,7,Oliver Stone,White,Atheist,USA,Straight,75.0,10000,Best Director
+1990,0,Drama,8,4000,Born on the Fourth of July,14000000,7,Oliver Stone,White,Atheist,USA,Straight,75.0,10000,Best Director
+1990,0,Drama,8,4000,Born on the Fourth of July,14000000,7,Oliver Stone,White,Atheist,USA,Straight,75.0,10000,Best Director
+1990,0,War,8,4000,Born on the Fourth of July,14000000,7,Oliver Stone,White,Atheist,USA,Straight,75.0,10000,Best Director
+1990,0,War,8,4000,Born on the Fourth of July,14000000,7,Oliver Stone,White,Atheist,USA,Straight,75.0,10000,Best Director
+2012,58,Biography,2,18000,The Iron Lady,13000000,6,Meryl Streep,White,Na,UK,Straight,54.0,11000,Best Actress
+2012,58,Biography,2,18000,The Iron Lady,13000000,6,Meryl Streep,White,Na,UK,Straight,54.0,11000,Best Actress
+2012,58,Drama,2,18000,The Iron Lady,13000000,6,Meryl Streep,White,Na,UK,Straight,54.0,11000,Best Actress
+2012,58,Drama,2,18000,The Iron Lady,13000000,6,Meryl Streep,White,Na,UK,Straight,54.0,11000,Best Actress
+2012,58,History,2,18000,The Iron Lady,13000000,6,Meryl Streep,White,Na,UK,Straight,54.0,11000,Best Actress
+2012,58,History,2,18000,The Iron Lady,13000000,6,Meryl Streep,White,Na,UK,Straight,54.0,11000,Best Actress
+2006,0,Drama,8,13000,Brokeback Mountain,14000000,8,Ang Lee,Asian,Na,USA,Straight,87.0,15000,Best Director
+2006,0,Drama,8,13000,Brokeback Mountain,14000000,8,Ang Lee,Asian,Na,USA,Straight,87.0,15000,Best Director
+2006,0,Romance,8,13000,Brokeback Mountain,14000000,8,Ang Lee,Asian,Na,USA,Straight,87.0,15000,Best Director
+2006,0,Romance,8,13000,Brokeback Mountain,14000000,8,Ang Lee,Asian,Na,USA,Straight,87.0,15000,Best Director
+2011,0,Drama,5,106000,Black Swan,13000000,8,Natalie Portman,White,Jewish,USA,Straight,79.0,20000,Best Actress
+2011,0,Drama,5,106000,Black Swan,13000000,8,Natalie Portman,White,Jewish,USA,Straight,79.0,20000,Best Actress
+2011,0,Thriller,5,106000,Black Swan,13000000,8,Natalie Portman,White,Jewish,USA,Straight,79.0,20000,Best Actress
+2011,0,Thriller,5,106000,Black Swan,13000000,8,Natalie Portman,White,Jewish,USA,Straight,79.0,20000,Best Actress
+1970,76,Biography,10,0,Patton,12000000,8,Franklin J. Schaffner,White,Na,USA,Straight,91.0,654,Best Director
+1971,76,Biography,10,0,Patton,12000000,8,George C. Scott,White,Na,USA,Straight,91.0,654,Best Actor
+1970,76,Biography,10,0,Patton,12000000,8,Franklin J. Schaffner,White,Na,USA,Straight,91.0,654,Best Director
+1971,76,Biography,10,0,Patton,12000000,8,George C. Scott,White,Na,USA,Straight,91.0,654,Best Actor
+1970,76,Drama,10,0,Patton,12000000,8,Franklin J. Schaffner,White,Na,USA,Straight,91.0,654,Best Director
+1971,76,Drama,10,0,Patton,12000000,8,George C. Scott,White,Na,USA,Straight,91.0,654,Best Actor
+1970,76,Drama,10,0,Patton,12000000,8,Franklin J. Schaffner,White,Na,USA,Straight,91.0,654,Best Director
+1971,76,Drama,10,0,Patton,12000000,8,George C. Scott,White,Na,USA,Straight,91.0,654,Best Actor
+1970,76,War,10,0,Patton,12000000,8,Franklin J. Schaffner,White,Na,USA,Straight,91.0,654,Best Director
+1971,76,War,10,0,Patton,12000000,8,George C. Scott,White,Na,USA,Straight,91.0,654,Best Actor
+1970,76,War,10,0,Patton,12000000,8,Franklin J. Schaffner,White,Na,USA,Straight,91.0,654,Best Director
+1971,76,War,10,0,Patton,12000000,8,George C. Scott,White,Na,USA,Straight,91.0,654,Best Actor
+2011,737,Biography,,36000,The Fighter,25000000,8,Christian Bale,White,Na,USA,Straight,,23000,Best Supporting Actor
+2011,737,Biography,,36000,The Fighter,25000000,8,Melissa Leo,White,Na,USA,Straight,,23000,Best Supporting Actress
+2011,737,Biography,,36000,The Fighter,25000000,8,Christian Bale,White,Na,USA,Straight,,23000,Best Supporting Actor
+2011,737,Biography,,36000,The Fighter,25000000,8,Melissa Leo,White,Na,USA,Straight,,23000,Best Supporting Actress
+2011,737,Drama,,36000,The Fighter,25000000,8,Christian Bale,White,Na,USA,Straight,,23000,Best Supporting Actor
+2011,737,Drama,,36000,The Fighter,25000000,8,Melissa Leo,White,Na,USA,Straight,,23000,Best Supporting Actress
+2011,737,Drama,,36000,The Fighter,25000000,8,Christian Bale,White,Na,USA,Straight,,23000,Best Supporting Actor
+2011,737,Drama,,36000,The Fighter,25000000,8,Melissa Leo,White,Na,USA,Straight,,23000,Best Supporting Actress
+2011,737,Sport,,36000,The Fighter,25000000,8,Christian Bale,White,Na,USA,Straight,,23000,Best Supporting Actor
+2011,737,Sport,,36000,The Fighter,25000000,8,Melissa Leo,White,Na,USA,Straight,,23000,Best Supporting Actress
+2011,737,Sport,,36000,The Fighter,25000000,8,Christian Bale,White,Na,USA,Straight,,23000,Best Supporting Actor
+2011,737,Sport,,36000,The Fighter,25000000,8,Melissa Leo,White,Na,USA,Straight,,23000,Best Supporting Actress
+1993,36,Comedy,,7000,My Cousin Vinny,11000000,8,Marisa Tomei,White,Na,USA,Straight,,886,Best Supporting Actress
+1993,36,Comedy,,7000,My Cousin Vinny,11000000,8,Marisa Tomei,White,Na,USA,Straight,,886,Best Supporting Actress
+1993,36,Crime,,7000,My Cousin Vinny,11000000,8,Marisa Tomei,White,Na,USA,Straight,,886,Best Supporting Actress
+1993,36,Crime,,7000,My Cousin Vinny,11000000,8,Marisa Tomei,White,Na,USA,Straight,,886,Best Supporting Actress
+1996,0,Crime,4,0,Dead Man Walking,11000000,8,Susan Sarandon,White,Roman Catholic,UK,Straight,80.0,276,Best Actress
+1996,0,Crime,4,0,Dead Man Walking,11000000,8,Susan Sarandon,White,Roman Catholic,UK,Straight,80.0,276,Best Actress
+1996,0,Drama,4,0,Dead Man Walking,11000000,8,Susan Sarandon,White,Roman Catholic,UK,Straight,80.0,276,Best Actress
+1996,0,Drama,4,0,Dead Man Walking,11000000,8,Susan Sarandon,White,Roman Catholic,UK,Straight,80.0,276,Best Actress
+1998,835,Drama,,31000,Good Will Hunting,10000000,8,Robin Williams,White,Anglican/episcopalian,USA,Straight,,49000,Best Supporting Actor
+1998,835,Drama,,31000,Good Will Hunting,10000000,8,Robin Williams,White,Anglican/episcopalian,USA,Straight,,49000,Best Supporting Actor
+2010,304,Drama,,12000,Precious,10000000,7,Mo'Nique,Black,Na,USA,Straight,,940,Best Supporting Actress
+2010,304,Drama,,12000,Precious,10000000,7,Mo'Nique,Black,Na,USA,Straight,,940,Best Supporting Actress
+2010,304,Drama,,12000,Precious,10000000,7,Mo'Nique,Black,Na,USA,Straight,,940,Best Supporting Actress
+2010,304,Drama,,12000,Precious,10000000,7,Mo'Nique,Black,Na,USA,Straight,,940,Best Supporting Actress
+2010,304,Drama,,12000,Precious,10000000,7,Mo'Nique,Black,Na,USA,Straight,,939,Best Supporting Actress
+2010,304,Drama,,12000,Precious,10000000,7,Mo'Nique,Black,Na,USA,Straight,,939,Best Supporting Actress
+2010,304,Drama,,12000,Precious,10000000,7,Mo'Nique,Black,Na,USA,Straight,,939,Best Supporting Actress
+2010,304,Drama,,12000,Precious,10000000,7,Mo'Nique,Black,Na,USA,Straight,,939,Best Supporting Actress
+1987,17000,Drama,4,0,The Color of Money,13800000,7,Paul Newman,White,Jewish,USA,Straight,0.0,10000,Best Actor
+1987,17000,Drama,4,0,The Color of Money,13800000,7,Paul Newman,White,Jewish,USA,Straight,0.0,10000,Best Actor
+1987,17000,Sport,4,0,The Color of Money,13800000,7,Paul Newman,White,Jewish,USA,Straight,0.0,10000,Best Actor
+1987,17000,Sport,4,0,The Color of Money,13800000,7,Paul Newman,White,Jewish,USA,Straight,0.0,10000,Best Actor
+1969,82,Drama,11,0,Oliver!,10000000,8,Carol Reed,White,Na,UK,Straight,0.0,695,Best Director
+1969,82,Drama,11,0,Oliver!,10000000,8,Carol Reed,White,Na,UK,Straight,0.0,695,Best Director
+1969,82,Family,11,0,Oliver!,10000000,8,Carol Reed,White,Na,UK,Straight,0.0,695,Best Director
+1969,82,Family,11,0,Oliver!,10000000,8,Carol Reed,White,Na,UK,Straight,0.0,695,Best Director
+1969,82,Musical,11,0,Oliver!,10000000,8,Carol Reed,White,Na,UK,Straight,0.0,695,Best Director
+1969,82,Musical,11,0,Oliver!,10000000,8,Carol Reed,White,Na,UK,Straight,0.0,695,Best Director
+2010,108,Drama,3,0,Crazy Heart,7000000,7,Jeff Bridges,White,Lutheran,USA,Straight,83.0,12000,Best Actor
+2010,108,Drama,3,0,Crazy Heart,7000000,7,Jeff Bridges,White,Lutheran,USA,Straight,83.0,12000,Best Actor
+2010,108,Music,3,0,Crazy Heart,7000000,7,Jeff Bridges,White,Lutheran,USA,Straight,83.0,12000,Best Actor
+2010,108,Music,3,0,Crazy Heart,7000000,7,Jeff Bridges,White,Lutheran,USA,Straight,83.0,12000,Best Actor
+2010,108,Romance,3,0,Crazy Heart,7000000,7,Jeff Bridges,White,Lutheran,USA,Straight,83.0,12000,Best Actor
+2010,108,Romance,3,0,Crazy Heart,7000000,7,Jeff Bridges,White,Lutheran,USA,Straight,83.0,12000,Best Actor
+1966,338,Biography,10,15000,The Sound of Music,8200000,8,Robert Wise,White,Na,USA,Straight,0.0,354,Best Director
+1966,338,Biography,10,15000,The Sound of Music,8200000,8,Robert Wise,White,Na,USA,Straight,0.0,354,Best Director
+1966,338,Drama,10,15000,The Sound of Music,8200000,8,Robert Wise,White,Na,USA,Straight,0.0,354,Best Director
+1966,338,Drama,10,15000,The Sound of Music,8200000,8,Robert Wise,White,Na,USA,Straight,0.0,354,Best Director
+1966,338,Family,10,15000,The Sound of Music,8200000,8,Robert Wise,White,Na,USA,Straight,0.0,354,Best Director
+1966,338,Family,10,15000,The Sound of Music,8200000,8,Robert Wise,White,Na,USA,Straight,0.0,354,Best Director
+1966,338,Musical,10,15000,The Sound of Music,8200000,8,Robert Wise,White,Na,USA,Straight,0.0,354,Best Director
+1966,338,Musical,10,15000,The Sound of Music,8200000,8,Robert Wise,White,Na,USA,Straight,0.0,354,Best Director
+1966,338,Romance,10,15000,The Sound of Music,8200000,8,Robert Wise,White,Na,USA,Straight,0.0,354,Best Director
+1966,338,Romance,10,15000,The Sound of Music,8200000,8,Robert Wise,White,Na,USA,Straight,0.0,354,Best Director
+2007,36,Comedy,,15000,Little Miss Sunshine,8000000,8,Alan Arkin,White,Jewish,USA,Straight,,7000,Best Supporting Actor
+2007,36,Comedy,,15000,Little Miss Sunshine,8000000,8,Alan Arkin,White,Jewish,USA,Straight,,7000,Best Supporting Actor
+2007,36,Drama,,15000,Little Miss Sunshine,8000000,8,Alan Arkin,White,Jewish,USA,Straight,,7000,Best Supporting Actor
+2007,36,Drama,,15000,Little Miss Sunshine,8000000,8,Alan Arkin,White,Jewish,USA,Straight,,7000,Best Supporting Actor
+2006,79,Drama,,0,Syriana,50000000,7,George Clooney,White,Na,USA,Straight,,13000,Best Supporting Actor
+2006,79,Drama,,0,Syriana,50000000,7,George Clooney,White,Na,USA,Straight,,13000,Best Supporting Actor
+2006,79,Drama,,0,Syriana,50000000,7,George Clooney,White,Na,USA,Straight,,13000,Best Supporting Actor
+2006,79,Drama,,0,Syriana,50000000,7,George Clooney,White,Na,USA,Straight,,13000,Best Supporting Actor
+2006,79,Thriller,,0,Syriana,50000000,7,George Clooney,White,Na,USA,Straight,,13000,Best Supporting Actor
+2006,79,Thriller,,0,Syriana,50000000,7,George Clooney,White,Na,USA,Straight,,13000,Best Supporting Actor
+2006,79,Thriller,,0,Syriana,50000000,7,George Clooney,White,Na,USA,Straight,,13000,Best Supporting Actor
+2006,79,Thriller,,0,Syriana,50000000,7,George Clooney,White,Na,USA,Straight,,13000,Best Supporting Actor
+1993,133,Drama,9,788,Howards End,0,8,Emma Thompson,White,Na,UK,Straight,87.0,12000,Best Actress
+1993,133,Drama,9,788,Howards End,0,8,Emma Thompson,White,Na,UK,Straight,87.0,12000,Best Actress
+1993,133,Romance,9,788,Howards End,0,8,Emma Thompson,White,Na,UK,Straight,87.0,12000,Best Actress
+1993,133,Romance,9,788,Howards End,0,8,Emma Thompson,White,Na,UK,Straight,87.0,12000,Best Actress
+1990,78,Comedy,9,3000,Driving Miss Daisy,7500000,7,Jessica Tandy,White,Na,USA,Straight,81.0,11000,Best Actress
+1990,78,Comedy,9,3000,Driving Miss Daisy,7500000,7,Jessica Tandy,White,Na,USA,Straight,81.0,11000,Best Actress
+1990,78,Drama,9,3000,Driving Miss Daisy,7500000,7,Jessica Tandy,White,Na,USA,Straight,81.0,11000,Best Actress
+1990,78,Drama,9,3000,Driving Miss Daisy,7500000,7,Jessica Tandy,White,Na,USA,Straight,81.0,11000,Best Actress
+1990,78,Family,9,3000,Driving Miss Daisy,7500000,7,Jessica Tandy,White,Na,USA,Straight,81.0,11000,Best Actress
+1990,78,Family,9,3000,Driving Miss Daisy,7500000,7,Jessica Tandy,White,Na,USA,Straight,81.0,11000,Best Actress
+1973,0,Crime,11,43000,The Godfather,6000000,9,Marlon Brando,White,Deist,USA,Bisexual,100.0,14000,Best Actor
+1973,0,Crime,11,43000,The Godfather,6000000,9,Marlon Brando,White,Deist,USA,Bisexual,100.0,14000,Best Actor
+1973,0,Drama,11,43000,The Godfather,6000000,9,Marlon Brando,White,Deist,USA,Bisexual,100.0,14000,Best Actor
+1973,0,Drama,11,43000,The Godfather,6000000,9,Marlon Brando,White,Deist,USA,Bisexual,100.0,14000,Best Actor
+1994,319,Drama,8,0,The Piano,7000000,8,Holly Hunter,White,Na,New Zealand,Straight,89.0,1000,Best Actress
+1994,319,Drama,8,0,The Piano,7000000,8,Anna Paquin,White,Na,New Zealand,Bisexual,89.0,1000,Best Supporting Actress
+1994,319,Drama,8,0,The Piano,7000000,8,Holly Hunter,White,Na,New Zealand,Straight,89.0,1000,Best Actress
+1994,319,Drama,8,0,The Piano,7000000,8,Anna Paquin,White,Na,New Zealand,Bisexual,89.0,1000,Best Supporting Actress
+1994,319,Music,8,0,The Piano,7000000,8,Holly Hunter,White,Na,New Zealand,Straight,89.0,1000,Best Actress
+1994,319,Music,8,0,The Piano,7000000,8,Anna Paquin,White,Na,New Zealand,Bisexual,89.0,1000,Best Supporting Actress
+1994,319,Music,8,0,The Piano,7000000,8,Holly Hunter,White,Na,New Zealand,Straight,89.0,1000,Best Actress
+1994,319,Music,8,0,The Piano,7000000,8,Anna Paquin,White,Na,New Zealand,Bisexual,89.0,1000,Best Supporting Actress
+1994,319,Romance,8,0,The Piano,7000000,8,Holly Hunter,White,Na,New Zealand,Straight,89.0,1000,Best Actress
+1994,319,Romance,8,0,The Piano,7000000,8,Anna Paquin,White,Na,New Zealand,Bisexual,89.0,1000,Best Supporting Actress
+1994,319,Romance,8,0,The Piano,7000000,8,Holly Hunter,White,Na,New Zealand,Straight,89.0,1000,Best Actress
+1994,319,Romance,8,0,The Piano,7000000,8,Anna Paquin,White,Na,New Zealand,Bisexual,89.0,1000,Best Supporting Actress
+2006,152,Biography,5,0,Capote,7000000,7,Philip Seymour Hoffman,White,Na,Canada,Straight,88.0,22000,Best Actor
+2006,152,Biography,5,0,Capote,7000000,7,Philip Seymour Hoffman,White,Na,Canada,Straight,88.0,22000,Best Actor
+2006,152,Crime,5,0,Capote,7000000,7,Philip Seymour Hoffman,White,Na,Canada,Straight,88.0,22000,Best Actor
+2006,152,Crime,5,0,Capote,7000000,7,Philip Seymour Hoffman,White,Na,Canada,Straight,88.0,22000,Best Actor
+2006,152,Drama,5,0,Capote,7000000,7,Philip Seymour Hoffman,White,Na,Canada,Straight,88.0,22000,Best Actor
+2006,152,Drama,5,0,Capote,7000000,7,Philip Seymour Hoffman,White,Na,Canada,Straight,88.0,22000,Best Actor
+1997,0,Crime,7,61000,Fargo,0,9,Frances McDormand,White,Disciples of Christ,USA,Straight,85.0,4000,Best Actress
+1997,0,Crime,7,61000,Fargo,0,9,Frances McDormand,White,Disciples of Christ,USA,Straight,85.0,4000,Best Actress
+1997,0,Drama,7,61000,Fargo,0,9,Frances McDormand,White,Disciples of Christ,USA,Straight,85.0,4000,Best Actress
+1997,0,Drama,7,61000,Fargo,0,9,Frances McDormand,White,Disciples of Christ,USA,Straight,85.0,4000,Best Actress
+1997,0,Thriller,7,61000,Fargo,0,9,Frances McDormand,White,Disciples of Christ,USA,Straight,85.0,4000,Best Actress
+1997,0,Thriller,7,61000,Fargo,0,9,Frances McDormand,White,Disciples of Christ,USA,Straight,85.0,4000,Best Actress
+1990,0,Drama,8,9000,Platoon,6000000,8,Oliver Stone,White,Atheist,UK,Straight,0.0,40000,Best Director
+1990,0,Drama,8,9000,Platoon,6000000,8,Oliver Stone,White,Atheist,UK,Straight,0.0,40000,Best Director
+1990,0,War,8,9000,Platoon,6000000,8,Oliver Stone,White,Atheist,UK,Straight,0.0,40000,Best Director
+1990,0,War,8,9000,Platoon,6000000,8,Oliver Stone,White,Atheist,UK,Straight,0.0,40000,Best Director
+1965,55,Comedy,13,0,Mary Poppins,6000000,8,Julie Andrews,White,Na,USA,Straight,0.0,382,Best Actress
+1965,55,Comedy,13,0,Mary Poppins,6000000,8,Julie Andrews,White,Na,USA,Straight,0.0,382,Best Actress
+1965,55,Family,13,0,Mary Poppins,6000000,8,Julie Andrews,White,Na,USA,Straight,0.0,382,Best Actress
+1965,55,Family,13,0,Mary Poppins,6000000,8,Julie Andrews,White,Na,USA,Straight,0.0,382,Best Actress
+1965,55,Fantasy,13,0,Mary Poppins,6000000,8,Julie Andrews,White,Na,USA,Straight,0.0,382,Best Actress
+1965,55,Fantasy,13,0,Mary Poppins,6000000,8,Julie Andrews,White,Na,USA,Straight,0.0,382,Best Actress
+1965,55,Musical,13,0,Mary Poppins,6000000,8,Julie Andrews,White,Na,USA,Straight,0.0,382,Best Actress
+1965,55,Musical,13,0,Mary Poppins,6000000,8,Julie Andrews,White,Na,USA,Straight,0.0,382,Best Actress
+1980,0,Drama,6,0,Ordinary People,6000000,8,Robert Redford,White,Na,USA,Straight,85.0,2000,Best Director
+1980,0,Drama,6,0,Ordinary People,6000000,8,Robert Redford,White,Na,USA,Straight,85.0,2000,Best Director
+1962,34,Crime,11,0,West Side Story,6000000,8,Jerome Robbins,White,Jewish,USA,Gay,0.0,804,Best Director
+1961,34,Crime,11,0,West Side Story,6000000,8,Robert Wise,White,Na,USA,Straight,0.0,804,Best Director
+1962,34,Crime,11,0,West Side Story,6000000,8,George Chakiris,White,Na,USA,Gay,0.0,804,Best Supporting Actor
+1962,34,Crime,11,0,West Side Story,6000000,8,Rita Moreno,Hispanic,Na,USA,Straight,0.0,804,Best Supporting Actress
+1962,34,Crime,11,0,West Side Story,6000000,8,Jerome Robbins,White,Jewish,USA,Gay,0.0,804,Best Director
+1961,34,Crime,11,0,West Side Story,6000000,8,Robert Wise,White,Na,USA,Straight,0.0,804,Best Director
+1962,34,Crime,11,0,West Side Story,6000000,8,George Chakiris,White,Na,USA,Gay,0.0,804,Best Supporting Actor
+1962,34,Crime,11,0,West Side Story,6000000,8,Rita Moreno,Hispanic,Na,USA,Straight,0.0,804,Best Supporting Actress
+1962,34,Drama,11,0,West Side Story,6000000,8,Jerome Robbins,White,Jewish,USA,Gay,0.0,804,Best Director
+1961,34,Drama,11,0,West Side Story,6000000,8,Robert Wise,White,Na,USA,Straight,0.0,804,Best Director
+1962,34,Drama,11,0,West Side Story,6000000,8,George Chakiris,White,Na,USA,Gay,0.0,804,Best Supporting Actor
+1962,34,Drama,11,0,West Side Story,6000000,8,Rita Moreno,Hispanic,Na,USA,Straight,0.0,804,Best Supporting Actress
+1962,34,Drama,11,0,West Side Story,6000000,8,Jerome Robbins,White,Jewish,USA,Gay,0.0,804,Best Director
+1961,34,Drama,11,0,West Side Story,6000000,8,Robert Wise,White,Na,USA,Straight,0.0,804,Best Director
+1962,34,Drama,11,0,West Side Story,6000000,8,George Chakiris,White,Na,USA,Gay,0.0,804,Best Supporting Actor
+1962,34,Drama,11,0,West Side Story,6000000,8,Rita Moreno,Hispanic,Na,USA,Straight,0.0,804,Best Supporting Actress
+1962,34,Musical,11,0,West Side Story,6000000,8,Jerome Robbins,White,Jewish,USA,Gay,0.0,804,Best Director
+1961,34,Musical,11,0,West Side Story,6000000,8,Robert Wise,White,Na,USA,Straight,0.0,804,Best Director
+1962,34,Musical,11,0,West Side Story,6000000,8,George Chakiris,White,Na,USA,Gay,0.0,804,Best Supporting Actor
+1962,34,Musical,11,0,West Side Story,6000000,8,Rita Moreno,Hispanic,Na,USA,Straight,0.0,804,Best Supporting Actress
+1962,34,Musical,11,0,West Side Story,6000000,8,Jerome Robbins,White,Jewish,USA,Gay,0.0,804,Best Director
+1961,34,Musical,11,0,West Side Story,6000000,8,Robert Wise,White,Na,USA,Straight,0.0,804,Best Director
+1962,34,Musical,11,0,West Side Story,6000000,8,George Chakiris,White,Na,USA,Gay,0.0,804,Best Supporting Actor
+1962,34,Musical,11,0,West Side Story,6000000,8,Rita Moreno,Hispanic,Na,USA,Straight,0.0,804,Best Supporting Actress
+1962,34,Romance,11,0,West Side Story,6000000,8,Jerome Robbins,White,Jewish,USA,Gay,0.0,804,Best Director
+1961,34,Romance,11,0,West Side Story,6000000,8,Robert Wise,White,Na,USA,Straight,0.0,804,Best Director
+1962,34,Romance,11,0,West Side Story,6000000,8,George Chakiris,White,Na,USA,Gay,0.0,804,Best Supporting Actor
+1962,34,Romance,11,0,West Side Story,6000000,8,Rita Moreno,Hispanic,Na,USA,Straight,0.0,804,Best Supporting Actress
+1962,34,Romance,11,0,West Side Story,6000000,8,Jerome Robbins,White,Jewish,USA,Gay,0.0,804,Best Director
+1961,34,Romance,11,0,West Side Story,6000000,8,Robert Wise,White,Na,USA,Straight,0.0,804,Best Director
+1962,34,Romance,11,0,West Side Story,6000000,8,George Chakiris,White,Na,USA,Gay,0.0,804,Best Supporting Actor
+1962,34,Romance,11,0,West Side Story,6000000,8,Rita Moreno,Hispanic,Na,USA,Straight,0.0,804,Best Supporting Actress
+1962,34,Thriller,11,0,West Side Story,6000000,8,Jerome Robbins,White,Jewish,USA,Gay,0.0,804,Best Director
+1961,34,Thriller,11,0,West Side Story,6000000,8,Robert Wise,White,Na,USA,Straight,0.0,804,Best Director
+1962,34,Thriller,11,0,West Side Story,6000000,8,George Chakiris,White,Na,USA,Gay,0.0,804,Best Supporting Actor
+1962,34,Thriller,11,0,West Side Story,6000000,8,Rita Moreno,Hispanic,Na,USA,Straight,0.0,804,Best Supporting Actress
+1962,34,Thriller,11,0,West Side Story,6000000,8,Jerome Robbins,White,Jewish,USA,Gay,0.0,804,Best Director
+1961,34,Thriller,11,0,West Side Story,6000000,8,Robert Wise,White,Na,USA,Straight,0.0,804,Best Director
+1962,34,Thriller,11,0,West Side Story,6000000,8,George Chakiris,White,Na,USA,Gay,0.0,804,Best Supporting Actor
+1962,34,Thriller,11,0,West Side Story,6000000,8,Rita Moreno,Hispanic,Na,USA,Straight,0.0,804,Best Supporting Actress
+1996,0,Crime,,28000,The Usual Suspects,6000000,9,Kevin Spacey,White,Na,USA,Matter of Dispute,,18000,Best Supporting Actor
+1996,0,Crime,,28000,The Usual Suspects,6000000,9,Kevin Spacey,White,Na,USA,Matter of Dispute,,18000,Best Supporting Actor
+1996,0,Drama,,28000,The Usual Suspects,6000000,9,Kevin Spacey,White,Na,USA,Matter of Dispute,,18000,Best Supporting Actor
+1996,0,Drama,,28000,The Usual Suspects,6000000,9,Kevin Spacey,White,Na,USA,Matter of Dispute,,18000,Best Supporting Actor
+1996,0,Mystery,,28000,The Usual Suspects,6000000,9,Kevin Spacey,White,Na,USA,Matter of Dispute,,18000,Best Supporting Actor
+1996,0,Mystery,,28000,The Usual Suspects,6000000,9,Kevin Spacey,White,Na,USA,Matter of Dispute,,18000,Best Supporting Actor
+1996,0,Thriller,,28000,The Usual Suspects,6000000,9,Kevin Spacey,White,Na,USA,Matter of Dispute,,18000,Best Supporting Actor
+1996,0,Thriller,,28000,The Usual Suspects,6000000,9,Kevin Spacey,White,Na,USA,Matter of Dispute,,18000,Best Supporting Actor
+2007,162,Biography,0,0,The Last King of Scotland,6000000,8,Forest Whitaker,Black,Na,UK,Straight,74.0,1000,Best Actor
+2007,162,Biography,0,0,The Last King of Scotland,6000000,8,Forest Whitaker,Black,Na,UK,Straight,74.0,1000,Best Actor
+2007,162,Drama,0,0,The Last King of Scotland,6000000,8,Forest Whitaker,Black,Na,UK,Straight,74.0,1000,Best Actor
+2007,162,Drama,0,0,The Last King of Scotland,6000000,8,Forest Whitaker,Black,Na,UK,Straight,74.0,1000,Best Actor
+2007,162,History,0,0,The Last King of Scotland,6000000,8,Forest Whitaker,Black,Na,UK,Straight,74.0,1000,Best Actor
+2007,162,History,0,0,The Last King of Scotland,6000000,8,Forest Whitaker,Black,Na,UK,Straight,74.0,1000,Best Actor
+2007,162,Thriller,0,0,The Last King of Scotland,6000000,8,Forest Whitaker,Black,Na,UK,Straight,74.0,1000,Best Actor
+2007,162,Thriller,0,0,The Last King of Scotland,6000000,8,Forest Whitaker,Black,Na,UK,Straight,74.0,1000,Best Actor
+2001,0,Biography,,0,Pollock,6000000,7,Marcia Gay Harden,White,Na,USA,Straight,,697,Best Supporting Actress
+2001,0,Biography,,0,Pollock,6000000,7,Marcia Gay Harden,White,Na,USA,Straight,,697,Best Supporting Actress
+2001,0,Biography,,0,Pollock,6000000,7,Marcia Gay Harden,White,Na,USA,Straight,,697,Best Supporting Actress
+2001,0,Biography,,0,Pollock,6000000,7,Marcia Gay Harden,White,Na,USA,Straight,,697,Best Supporting Actress
+2001,0,Drama,,0,Pollock,6000000,7,Marcia Gay Harden,White,Na,USA,Straight,,697,Best Supporting Actress
+2001,0,Drama,,0,Pollock,6000000,7,Marcia Gay Harden,White,Na,USA,Straight,,697,Best Supporting Actress
+2001,0,Drama,,0,Pollock,6000000,7,Marcia Gay Harden,White,Na,USA,Straight,,697,Best Supporting Actress
+2001,0,Drama,,0,Pollock,6000000,7,Marcia Gay Harden,White,Na,USA,Straight,,697,Best Supporting Actress
+1978,160,Drama,,733,Julia,7840000,7,Jason Robards,White,Na,USA,Straight,,11000,Best Supporting Actor
+1978,160,Drama,,733,Julia,7840000,7,Vanessa Redgrave,White,Na,USA,Straight,,11000,Best Supporting Actress
+1978,160,Drama,,733,Julia,7840000,7,Jason Robards,White,Na,USA,Straight,,11000,Best Supporting Actor
+1978,160,Drama,,733,Julia,7840000,7,Vanessa Redgrave,White,Na,USA,Straight,,11000,Best Supporting Actress
+1973,131,Comedy,10,0,The Sting,5500000,8,George Roy Hill,White,Na,USA,Straight,0.0,1000,Best Director
+1973,131,Comedy,10,0,The Sting,5500000,8,George Roy Hill,White,Na,USA,Straight,0.0,1000,Best Director
+1973,131,Crime,10,0,The Sting,5500000,8,George Roy Hill,White,Na,USA,Straight,0.0,1000,Best Director
+1973,131,Crime,10,0,The Sting,5500000,8,George Roy Hill,White,Na,USA,Straight,0.0,1000,Best Director
+1973,131,Drama,10,0,The Sting,5500000,8,George Roy Hill,White,Na,USA,Straight,0.0,1000,Best Director
+1973,131,Drama,10,0,The Sting,5500000,8,George Roy Hill,White,Na,USA,Straight,0.0,1000,Best Director
+1997,96,Biography,7,0,Shine,5500000,8,Geoffrey Rush,White,Na,Australia,Straight,87.0,509,Best Actor
+1997,96,Biography,7,0,Shine,5500000,8,Geoffrey Rush,White,Na,Australia,Straight,87.0,509,Best Actor
+1997,96,Drama,7,0,Shine,5500000,8,Geoffrey Rush,White,Na,Australia,Straight,87.0,509,Best Actor
+1997,96,Drama,7,0,Shine,5500000,8,Geoffrey Rush,White,Na,Australia,Straight,87.0,509,Best Actor
+1997,96,Music,7,0,Shine,5500000,8,Geoffrey Rush,White,Na,Australia,Straight,87.0,509,Best Actor
+1997,96,Music,7,0,Shine,5500000,8,Geoffrey Rush,White,Na,Australia,Straight,87.0,509,Best Actor
+1997,96,Romance,7,0,Shine,5500000,8,Geoffrey Rush,White,Na,Australia,Straight,87.0,509,Best Actor
+1997,96,Romance,7,0,Shine,5500000,8,Geoffrey Rush,White,Na,Australia,Straight,87.0,509,Best Actor
+2002,14,Biography,,0,Iris,5500000,7,Jim Broadbent,White,Na,UK,Straight,,14000,Best Supporting Actor
+2002,14,Biography,,0,Iris,5500000,7,Jim Broadbent,White,Na,UK,Straight,,14000,Best Supporting Actor
+2002,14,Drama,,0,Iris,5500000,7,Jim Broadbent,White,Na,UK,Straight,,14000,Best Supporting Actor
+2002,14,Drama,,0,Iris,5500000,7,Jim Broadbent,White,Na,UK,Straight,,14000,Best Supporting Actor
+2002,14,Romance,,0,Iris,5500000,7,Jim Broadbent,White,Na,UK,Straight,,14000,Best Supporting Actor
+2002,14,Romance,,0,Iris,5500000,7,Jim Broadbent,White,Na,UK,Straight,,14000,Best Supporting Actor
+2004,260,Biography,0,0,Monster,4500000,7,Charlize Theron,White,Na,USA,Straight,74.0,9000,Best Actress
+2004,260,Biography,0,0,Monster,4500000,7,Charlize Theron,White,Na,USA,Straight,74.0,9000,Best Actress
+2004,260,Crime,0,0,Monster,4500000,7,Charlize Theron,White,Na,USA,Straight,74.0,9000,Best Actress
+2004,260,Crime,0,0,Monster,4500000,7,Charlize Theron,White,Na,USA,Straight,74.0,9000,Best Actress
+2004,260,Drama,0,0,Monster,4500000,7,Charlize Theron,White,Na,USA,Straight,74.0,9000,Best Actress
+2004,260,Drama,0,0,Monster,4500000,7,Charlize Theron,White,Na,USA,Straight,74.0,9000,Best Actress
+2004,260,Thriller,0,0,Monster,4500000,7,Charlize Theron,White,Na,USA,Straight,74.0,9000,Best Actress
+2004,260,Thriller,0,0,Monster,4500000,7,Charlize Theron,White,Na,USA,Straight,74.0,9000,Best Actress
+2014,212,Biography,6,65000,Dallas Buyers Club,5000000,8,Matthew McConaughey,White,Na,USA,Straight,84.0,11000,Best Actor
+2014,212,Biography,6,65000,Dallas Buyers Club,5000000,8,Jared Leto,White,Na,USA,Straight,84.0,11000,Best Supporting Actor
+2014,212,Biography,6,65000,Dallas Buyers Club,5000000,8,Matthew McConaughey,White,Na,USA,Straight,84.0,11000,Best Actor
+2014,212,Biography,6,65000,Dallas Buyers Club,5000000,8,Jared Leto,White,Na,USA,Straight,84.0,11000,Best Supporting Actor
+2014,212,Drama,6,65000,Dallas Buyers Club,5000000,8,Matthew McConaughey,White,Na,USA,Straight,84.0,11000,Best Actor
+2014,212,Drama,6,65000,Dallas Buyers Club,5000000,8,Jared Leto,White,Na,USA,Straight,84.0,11000,Best Supporting Actor
+2014,212,Drama,6,65000,Dallas Buyers Club,5000000,8,Matthew McConaughey,White,Na,USA,Straight,84.0,11000,Best Actor
+2014,212,Drama,6,65000,Dallas Buyers Club,5000000,8,Jared Leto,White,Na,USA,Straight,84.0,11000,Best Supporting Actor
+1976,869,Drama,9,32000,One Flew Over the Cuckoo's Nest,4400000,9,Milos Forman,White,Na,USA,Straight,79.0,888,Best Director
+1976,869,Drama,9,32000,One Flew Over the Cuckoo's Nest,4400000,9,Jack Nicholson,White,Atheist,USA,Straight,79.0,888,Best Actor
+1976,869,Drama,9,32000,One Flew Over the Cuckoo's Nest,4400000,9,Louise Fletcher,White,Na,USA,Straight,79.0,888,Best Actress
+1976,869,Drama,9,32000,One Flew Over the Cuckoo's Nest,4400000,9,Milos Forman,White,Na,USA,Straight,79.0,888,Best Director
+1976,869,Drama,9,32000,One Flew Over the Cuckoo's Nest,4400000,9,Jack Nicholson,White,Atheist,USA,Straight,79.0,888,Best Actor
+1976,869,Drama,9,32000,One Flew Over the Cuckoo's Nest,4400000,9,Louise Fletcher,White,Na,USA,Straight,79.0,888,Best Actress
+1978,11000,Comedy,5,0,Annie Hall,4000000,8,Woody Allen,White,Jewish,USA,Straight,0.0,11000,Best Director
+1978,11000,Comedy,5,0,Annie Hall,4000000,8,Diane Keaton,White,Atheist,USA,Straight,0.0,11000,Best Actress
+1978,11000,Comedy,5,0,Annie Hall,4000000,8,Woody Allen,White,Jewish,USA,Straight,0.0,11000,Best Director
+1978,11000,Comedy,5,0,Annie Hall,4000000,8,Diane Keaton,White,Atheist,USA,Straight,0.0,11000,Best Actress
+1978,11000,Romance,5,0,Annie Hall,4000000,8,Woody Allen,White,Jewish,USA,Straight,0.0,11000,Best Director
+1978,11000,Romance,5,0,Annie Hall,4000000,8,Diane Keaton,White,Atheist,USA,Straight,0.0,11000,Best Actress
+1978,11000,Romance,5,0,Annie Hall,4000000,8,Woody Allen,White,Jewish,USA,Straight,0.0,11000,Best Director
+1978,11000,Romance,5,0,Annie Hall,4000000,8,Diane Keaton,White,Atheist,USA,Straight,0.0,11000,Best Actress
+2002,395,Drama,2,0,Monster's Ball,4000000,7,Halle Berry,Multiracial,Na,USA,Straight,69.0,13000,Best Actress
+2002,395,Drama,2,0,Monster's Ball,4000000,7,Halle Berry,Multiracial,Na,USA,Straight,69.0,13000,Best Actress
+2002,395,Romance,2,0,Monster's Ball,4000000,7,Halle Berry,Multiracial,Na,USA,Straight,69.0,13000,Best Actress
+2002,395,Romance,2,0,Monster's Ball,4000000,7,Halle Berry,Multiracial,Na,USA,Straight,69.0,13000,Best Actress
+1996,81,Drama,4,0,Leaving Las Vegas,3600000,8,Nicolas Cage,White,Roman Catholic,USA,Straight,82.0,12000,Best Actor
+1996,81,Drama,4,0,Leaving Las Vegas,3600000,8,Nicolas Cage,White,Roman Catholic,USA,Straight,82.0,12000,Best Actor
+1996,81,Romance,4,0,Leaving Las Vegas,3600000,8,Nicolas Cage,White,Roman Catholic,USA,Straight,82.0,12000,Best Actor
+1996,81,Romance,4,0,Leaving Las Vegas,3600000,8,Nicolas Cage,White,Roman Catholic,USA,Straight,82.0,12000,Best Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Adventure,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Adventure,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Adventure,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Adventure,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Adventure,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Adventure,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Adventure,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Drama,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Drama,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Drama,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Drama,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Drama,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,Drama,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,Drama,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,History,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,History,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,History,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,History,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,History,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,History,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,History,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,History,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,History,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,History,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,History,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,History,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,History,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,History,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,History,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1960,335,History,12,0,Ben-Hur,0,6,William Wyler,White,Na,USA,Straight,0.0,11000,Best Director
+1960,335,History,12,0,Ben-Hur,0,6,Charlton Heston,White,Protestant,USA,Straight,0.0,11000,Best Actor
+1960,335,History,12,0,Ben-Hur,0,6,Hugh Griffith,White,Na,USA,Na,0.0,11000,Best Supporting Actor
+1967,160,Biography,8,2000,A Man for All Seasons,2000000,8,Fred Zinnemann,White,Jewish,UK,Straight,0.0,559,Best Director
+1967,160,Biography,8,2000,A Man for All Seasons,2000000,8,Paul Scofield,White,Na,UK,Straight,0.0,559,Best Actor
+1967,160,Biography,8,2000,A Man for All Seasons,2000000,8,Fred Zinnemann,White,Jewish,UK,Straight,0.0,559,Best Director
+1967,160,Biography,8,2000,A Man for All Seasons,2000000,8,Paul Scofield,White,Na,UK,Straight,0.0,559,Best Actor
+1967,160,Drama,8,2000,A Man for All Seasons,2000000,8,Fred Zinnemann,White,Jewish,UK,Straight,0.0,559,Best Director
+1967,160,Drama,8,2000,A Man for All Seasons,2000000,8,Paul Scofield,White,Na,UK,Straight,0.0,559,Best Actor
+1967,160,Drama,8,2000,A Man for All Seasons,2000000,8,Fred Zinnemann,White,Jewish,UK,Straight,0.0,559,Best Director
+1967,160,Drama,8,2000,A Man for All Seasons,2000000,8,Paul Scofield,White,Na,UK,Straight,0.0,559,Best Actor
+1967,160,History,8,2000,A Man for All Seasons,2000000,8,Fred Zinnemann,White,Jewish,UK,Straight,0.0,559,Best Director
+1967,160,History,8,2000,A Man for All Seasons,2000000,8,Paul Scofield,White,Na,UK,Straight,0.0,559,Best Actor
+1967,160,History,8,2000,A Man for All Seasons,2000000,8,Fred Zinnemann,White,Jewish,UK,Straight,0.0,559,Best Director
+1967,160,History,8,2000,A Man for All Seasons,2000000,8,Paul Scofield,White,Na,UK,Straight,0.0,559,Best Actor
+1977,0,Drama,10,17000,Network,3800000,8,Peter Finch,White,Na,USA,Straight,0.0,3000,Best Actor
+1977,0,Drama,10,17000,Network,3800000,8,Faye Dunaway,White,Roman Catholic,USA,Straight,0.0,3000,Best Actress
+1977,0,Drama,10,17000,Network,3800000,8,Beatrice Straight,White,Na,USA,Straight,0.0,3000,Best Supporting Actress
+1977,0,Drama,10,17000,Network,3800000,8,Faye Dunaway,White,Roman Catholic,USA,Straight,0.0,3000,Best Actress
+1977,0,Drama,10,17000,Network,3800000,8,Peter Finch,White,Na,USA,Straight,0.0,3000,Best Actor
+1977,0,Drama,10,17000,Network,3800000,8,Faye Dunaway,White,Roman Catholic,USA,Straight,0.0,3000,Best Actress
+1977,0,Drama,10,17000,Network,3800000,8,Beatrice Straight,White,Na,USA,Straight,0.0,3000,Best Supporting Actress
+1977,0,Drama,10,17000,Network,3800000,8,Faye Dunaway,White,Roman Catholic,USA,Straight,0.0,3000,Best Actress
+1977,0,Romance,10,17000,Network,3800000,8,Peter Finch,White,Na,USA,Straight,0.0,3000,Best Actor
+1977,0,Romance,10,17000,Network,3800000,8,Faye Dunaway,White,Roman Catholic,USA,Straight,0.0,3000,Best Actress
+1977,0,Romance,10,17000,Network,3800000,8,Beatrice Straight,White,Na,USA,Straight,0.0,3000,Best Supporting Actress
+1977,0,Romance,10,17000,Network,3800000,8,Faye Dunaway,White,Roman Catholic,USA,Straight,0.0,3000,Best Actress
+1977,0,Romance,10,17000,Network,3800000,8,Peter Finch,White,Na,USA,Straight,0.0,3000,Best Actor
+1977,0,Romance,10,17000,Network,3800000,8,Faye Dunaway,White,Roman Catholic,USA,Straight,0.0,3000,Best Actress
+1977,0,Romance,10,17000,Network,3800000,8,Beatrice Straight,White,Na,USA,Straight,0.0,3000,Best Supporting Actress
+1977,0,Romance,10,17000,Network,3800000,8,Faye Dunaway,White,Roman Catholic,USA,Straight,0.0,3000,Best Actress
+1940,149,Drama,13,16000,Gone with the Wind,3977000,8,Victor Fleming,White,Na,USA,Straight,0.0,503,Best Director
+1940,149,Drama,13,16000,Gone with the Wind,3977000,8,Vivien Leigh,White,Roman Catholic,USA,Straight,0.0,503,Best Actress
+1940,149,Drama,13,16000,Gone with the Wind,3977000,8,Hattie McDaniel,Black,Christian,USA,Matter of Dispute,0.0,503,Best Supporting Actress
+1940,149,Drama,13,16000,Gone with the Wind,3977000,8,Victor Fleming,White,Na,USA,Straight,0.0,503,Best Director
+1940,149,Drama,13,16000,Gone with the Wind,3977000,8,Vivien Leigh,White,Roman Catholic,USA,Straight,0.0,503,Best Actress
+1940,149,Drama,13,16000,Gone with the Wind,3977000,8,Hattie McDaniel,Black,Christian,USA,Matter of Dispute,0.0,503,Best Supporting Actress
+1940,149,History,13,16000,Gone with the Wind,3977000,8,Victor Fleming,White,Na,USA,Straight,0.0,503,Best Director
+1940,149,History,13,16000,Gone with the Wind,3977000,8,Vivien Leigh,White,Roman Catholic,USA,Straight,0.0,503,Best Actress
+1940,149,History,13,16000,Gone with the Wind,3977000,8,Hattie McDaniel,Black,Christian,USA,Matter of Dispute,0.0,503,Best Supporting Actress
+1940,149,History,13,16000,Gone with the Wind,3977000,8,Victor Fleming,White,Na,USA,Straight,0.0,503,Best Director
+1940,149,History,13,16000,Gone with the Wind,3977000,8,Vivien Leigh,White,Roman Catholic,USA,Straight,0.0,503,Best Actress
+1940,149,History,13,16000,Gone with the Wind,3977000,8,Hattie McDaniel,Black,Christian,USA,Matter of Dispute,0.0,503,Best Supporting Actress
+1940,149,Romance,13,16000,Gone with the Wind,3977000,8,Victor Fleming,White,Na,USA,Straight,0.0,503,Best Director
+1940,149,Romance,13,16000,Gone with the Wind,3977000,8,Vivien Leigh,White,Roman Catholic,USA,Straight,0.0,503,Best Actress
+1940,149,Romance,13,16000,Gone with the Wind,3977000,8,Hattie McDaniel,Black,Christian,USA,Matter of Dispute,0.0,503,Best Supporting Actress
+1940,149,Romance,13,16000,Gone with the Wind,3977000,8,Victor Fleming,White,Na,USA,Straight,0.0,503,Best Director
+1940,149,Romance,13,16000,Gone with the Wind,3977000,8,Vivien Leigh,White,Roman Catholic,USA,Straight,0.0,503,Best Actress
+1940,149,Romance,13,16000,Gone with the Wind,3977000,8,Hattie McDaniel,Black,Christian,USA,Matter of Dispute,0.0,503,Best Supporting Actress
+1940,149,War,13,16000,Gone with the Wind,3977000,8,Victor Fleming,White,Na,USA,Straight,0.0,503,Best Director
+1940,149,War,13,16000,Gone with the Wind,3977000,8,Vivien Leigh,White,Roman Catholic,USA,Straight,0.0,503,Best Actress
+1940,149,War,13,16000,Gone with the Wind,3977000,8,Hattie McDaniel,Black,Christian,USA,Matter of Dispute,0.0,503,Best Supporting Actress
+1940,149,War,13,16000,Gone with the Wind,3977000,8,Victor Fleming,White,Na,USA,Straight,0.0,503,Best Director
+1940,149,War,13,16000,Gone with the Wind,3977000,8,Vivien Leigh,White,Roman Catholic,USA,Straight,0.0,503,Best Actress
+1940,149,War,13,16000,Gone with the Wind,3977000,8,Hattie McDaniel,Black,Christian,USA,Matter of Dispute,0.0,503,Best Supporting Actress
+1969,154,Drama,7,0,Midnight Cowboy,3600000,8,John Schlesinger,White,Na,USA,Gay,0.0,183,Best Director
+1969,154,Drama,7,0,Midnight Cowboy,3600000,8,John Schlesinger,White,Na,USA,Gay,0.0,183,Best Director
+1969,2000,Drama,,13000,Rosemary's Baby,2300000,8,Ruth Gordon,White,Na,USA,Straight,,917,Best Supporting Actress
+1969,2000,Drama,,13000,Rosemary's Baby,2300000,8,Ruth Gordon,White,Na,USA,Straight,,917,Best Supporting Actress
+1969,2000,Horror,,13000,Rosemary's Baby,2300000,8,Ruth Gordon,White,Na,USA,Straight,,917,Best Supporting Actress
+1969,2000,Horror,,13000,Rosemary's Baby,2300000,8,Ruth Gordon,White,Na,USA,Straight,,917,Best Supporting Actress
+1979,611,Drama,8,0,Coming Home,0,7,Jon Voight,White,Roman Catholic,China,Straight,0.0,878,Best Actor
+1979,611,Drama,8,0,Coming Home,0,7,Jane Fonda,White,Born-Again Christian,China,Straight,0.0,878,Best Actress
+1979,611,Drama,8,0,Coming Home,0,7,Jon Voight,White,Roman Catholic,China,Straight,0.0,878,Best Actor
+1979,611,Drama,8,0,Coming Home,0,7,Jane Fonda,White,Born-Again Christian,China,Straight,0.0,878,Best Actress
+1958,767,Adventure,8,0,The Bridge on the River Kwai,3000000,8,David Lean,White,Na,UK,Straight,0.0,682,Best Director
+1958,767,Adventure,8,0,The Bridge on the River Kwai,3000000,8,Alec Guinness,White,Roman Catholic,UK,Bisexual,0.0,682,Best Actor
+1958,767,Adventure,8,0,The Bridge on the River Kwai,3000000,8,David Lean,White,Na,UK,Straight,0.0,682,Best Director
+1958,767,Adventure,8,0,The Bridge on the River Kwai,3000000,8,Alec Guinness,White,Roman Catholic,UK,Bisexual,0.0,682,Best Actor
+1958,767,Drama,8,0,The Bridge on the River Kwai,3000000,8,David Lean,White,Na,UK,Straight,0.0,682,Best Director
+1958,767,Drama,8,0,The Bridge on the River Kwai,3000000,8,Alec Guinness,White,Roman Catholic,UK,Bisexual,0.0,682,Best Actor
+1958,767,Drama,8,0,The Bridge on the River Kwai,3000000,8,David Lean,White,Na,UK,Straight,0.0,682,Best Director
+1958,767,Drama,8,0,The Bridge on the River Kwai,3000000,8,Alec Guinness,White,Roman Catholic,UK,Bisexual,0.0,682,Best Actor
+1958,767,War,8,0,The Bridge on the River Kwai,3000000,8,David Lean,White,Na,UK,Straight,0.0,682,Best Director
+1958,767,War,8,0,The Bridge on the River Kwai,3000000,8,Alec Guinness,White,Roman Catholic,UK,Bisexual,0.0,682,Best Actor
+1958,767,War,8,0,The Bridge on the River Kwai,3000000,8,David Lean,White,Na,UK,Straight,0.0,682,Best Director
+1958,767,War,8,0,The Bridge on the River Kwai,3000000,8,Alec Guinness,White,Roman Catholic,UK,Bisexual,0.0,682,Best Actor
+1961,0,Comedy,10,0,The Apartment,3000000,8,Billy Wilder,White,Jewish,USA,Straight,0.0,516,Best Director
+1961,0,Comedy,10,0,The Apartment,3000000,8,Billy Wilder,White,Jewish,USA,Straight,0.0,516,Best Director
+1961,0,Comedy,10,0,The Apartment,3000000,8,Billy Wilder,White,Jewish,USA,Straight,0.0,516,Best Director
+1961,0,Comedy,10,0,The Apartment,3000000,8,Billy Wilder,White,Jewish,USA,Straight,0.0,516,Best Director
+1961,0,Drama,10,0,The Apartment,3000000,8,Billy Wilder,White,Jewish,USA,Straight,0.0,516,Best Director
+1961,0,Drama,10,0,The Apartment,3000000,8,Billy Wilder,White,Jewish,USA,Straight,0.0,516,Best Director
+1961,0,Drama,10,0,The Apartment,3000000,8,Billy Wilder,White,Jewish,USA,Straight,0.0,516,Best Director
+1961,0,Drama,10,0,The Apartment,3000000,8,Billy Wilder,White,Jewish,USA,Straight,0.0,516,Best Director
+1961,0,Romance,10,0,The Apartment,3000000,8,Billy Wilder,White,Jewish,USA,Straight,0.0,516,Best Director
+1961,0,Romance,10,0,The Apartment,3000000,8,Billy Wilder,White,Jewish,USA,Straight,0.0,516,Best Director
+1961,0,Romance,10,0,The Apartment,3000000,8,Billy Wilder,White,Jewish,USA,Straight,0.0,516,Best Director
+1961,0,Romance,10,0,The Apartment,3000000,8,Billy Wilder,White,Jewish,USA,Straight,0.0,516,Best Director
+1961,174,Drama,5,808,Elmer Gantry,3000000,8,Burt Lancaster,White,Protestant,USA,Straight,0.0,556,Best Actor
+1961,174,Drama,5,808,Elmer Gantry,3000000,8,Shirley Jones,White,Methodist,USA,Straight,0.0,556,Best Supporting Actress
+1961,174,Drama,5,808,Elmer Gantry,3000000,8,Burt Lancaster,White,Protestant,USA,Straight,0.0,556,Best Actor
+1961,174,Drama,5,808,Elmer Gantry,3000000,8,Shirley Jones,White,Methodist,USA,Straight,0.0,556,Best Supporting Actress
+1964,58,Drama,7,1000,Hud,2500000,8,Melvyn Douglas,White,Jewish,USA,Straight,0.0,617,Best Supporting Actor
+1964,58,Drama,7,1000,Hud,2500000,8,Patricia Neal,White,Roman Catholic,USA,Straight,0.0,617,Best Actress
+1964,58,Drama,7,1000,Hud,2500000,8,Melvyn Douglas,White,Jewish,USA,Straight,0.0,617,Best Supporting Actor
+1964,58,Drama,7,1000,Hud,2500000,8,Patricia Neal,White,Roman Catholic,USA,Straight,0.0,617,Best Actress
+1972,607,Action,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Action,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Action,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Action,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Action,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Action,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Action,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Action,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Crime,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Crime,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Crime,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Crime,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Crime,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Crime,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Crime,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Crime,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Drama,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Drama,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Drama,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Drama,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Drama,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Drama,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Drama,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Drama,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Thriller,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Thriller,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Thriller,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Thriller,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Thriller,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Thriller,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1972,607,Thriller,8,0,The French Connection,1800000,8,William Friedkin,White,Jewish,USA,Straight,96.0,813,Best Director
+1972,607,Thriller,8,0,The French Connection,1800000,8,Gene Hackman,White,Na,USA,Straight,96.0,813,Best Actor
+1947,355,Drama,8,0,The Best Years of Our Lives,2100000,8,William Wyler,White,Na,USA,Straight,0.0,749,Best Director
+1947,355,Drama,8,0,The Best Years of Our Lives,2100000,8,Fredric March,White,Na,USA,Straight,0.0,749,Best Actor
+1947,355,Drama,8,0,The Best Years of Our Lives,2100000,8,Harold Russell,White,Na,USA,Straight,0.0,749,Best Supporting Actor
+1947,355,Drama,8,0,The Best Years of Our Lives,2100000,8,William Wyler,White,Na,USA,Straight,0.0,749,Best Director
+1947,355,Drama,8,0,The Best Years of Our Lives,2100000,8,Fredric March,White,Na,USA,Straight,0.0,749,Best Actor
+1947,355,Drama,8,0,The Best Years of Our Lives,2100000,8,Harold Russell,White,Na,USA,Straight,0.0,749,Best Supporting Actor
+1947,355,Romance,8,0,The Best Years of Our Lives,2100000,8,William Wyler,White,Na,USA,Straight,0.0,749,Best Director
+1947,355,Romance,8,0,The Best Years of Our Lives,2100000,8,Fredric March,White,Na,USA,Straight,0.0,749,Best Actor
+1947,355,Romance,8,0,The Best Years of Our Lives,2100000,8,Harold Russell,White,Na,USA,Straight,0.0,749,Best Supporting Actor
+1947,355,Romance,8,0,The Best Years of Our Lives,2100000,8,William Wyler,White,Na,USA,Straight,0.0,749,Best Director
+1947,355,Romance,8,0,The Best Years of Our Lives,2100000,8,Fredric March,White,Na,USA,Straight,0.0,749,Best Actor
+1947,355,Romance,8,0,The Best Years of Our Lives,2100000,8,Harold Russell,White,Na,USA,Straight,0.0,749,Best Supporting Actor
+1947,355,War,8,0,The Best Years of Our Lives,2100000,8,William Wyler,White,Na,USA,Straight,0.0,749,Best Director
+1947,355,War,8,0,The Best Years of Our Lives,2100000,8,Fredric March,White,Na,USA,Straight,0.0,749,Best Actor
+1947,355,War,8,0,The Best Years of Our Lives,2100000,8,Harold Russell,White,Na,USA,Straight,0.0,749,Best Supporting Actor
+1947,355,War,8,0,The Best Years of Our Lives,2100000,8,William Wyler,White,Na,USA,Straight,0.0,749,Best Director
+1947,355,War,8,0,The Best Years of Our Lives,2100000,8,Fredric March,White,Na,USA,Straight,0.0,749,Best Actor
+1947,355,War,8,0,The Best Years of Our Lives,2100000,8,Harold Russell,White,Na,USA,Straight,0.0,749,Best Supporting Actor
+1968,0,Crime,7,763,In the Heat of the Night,0,7,Rod Steiger,White,Lutheran,USA,Straight,0.0,480,Best Actor
+1968,0,Crime,7,763,In the Heat of the Night,0,7,Rod Steiger,White,Lutheran,USA,Straight,0.0,480,Best Actor
+1968,0,Drama,7,763,In the Heat of the Night,0,7,Rod Steiger,White,Lutheran,USA,Straight,0.0,480,Best Actor
+1968,0,Drama,7,763,In the Heat of the Night,0,7,Rod Steiger,White,Lutheran,USA,Straight,0.0,480,Best Actor
+1968,0,Mystery,7,763,In the Heat of the Night,0,7,Rod Steiger,White,Lutheran,USA,Straight,0.0,480,Best Actor
+1968,0,Mystery,7,763,In the Heat of the Night,0,7,Rod Steiger,White,Lutheran,USA,Straight,0.0,480,Best Actor
+1963,89,Crime,8,15000,To Kill a Mockingbird,2000000,8,Gregory Peck,White,Roman Catholic,USA,Straight,0.0,3000,Best Actor
+1963,89,Crime,8,15000,To Kill a Mockingbird,2000000,8,Gregory Peck,White,Roman Catholic,USA,Straight,0.0,3000,Best Actor
+1963,89,Drama,8,15000,To Kill a Mockingbird,2000000,8,Gregory Peck,White,Roman Catholic,USA,Straight,0.0,3000,Best Actor
+1963,89,Drama,8,15000,To Kill a Mockingbird,2000000,8,Gregory Peck,White,Roman Catholic,USA,Straight,0.0,3000,Best Actor
+2000,108,Biography,2,0,Boys Don't Cry,2000000,8,Hilary Swank,White,Na,USA,Straight,86.0,173,Best Actress
+2000,108,Biography,2,0,Boys Don't Cry,2000000,8,Hilary Swank,White,Na,USA,Straight,86.0,173,Best Actress
+2000,108,Crime,2,0,Boys Don't Cry,2000000,8,Hilary Swank,White,Na,USA,Straight,86.0,173,Best Actress
+2000,108,Crime,2,0,Boys Don't Cry,2000000,8,Hilary Swank,White,Na,USA,Straight,86.0,173,Best Actress
+2000,108,Drama,2,0,Boys Don't Cry,2000000,8,Hilary Swank,White,Na,USA,Straight,86.0,173,Best Actress
+2000,108,Drama,2,0,Boys Don't Cry,2000000,8,Hilary Swank,White,Na,USA,Straight,86.0,173,Best Actress
+2000,108,Romance,2,0,Boys Don't Cry,2000000,8,Hilary Swank,White,Na,USA,Straight,86.0,173,Best Actress
+2000,108,Romance,2,0,Boys Don't Cry,2000000,8,Hilary Swank,White,Na,USA,Straight,86.0,173,Best Actress
+1948,603,Drama,8,0,Gentleman's Agreement,2000000,7,Elia Kazan,White,Na,USA,Straight,0.0,936,Best Director
+1948,603,Drama,8,0,Gentleman's Agreement,2000000,7,Celeste Holm,White,Na,USA,Straight,0.0,936,Best Supporting Actress
+1948,603,Drama,8,0,Gentleman's Agreement,2000000,7,Elia Kazan,White,Na,USA,Straight,0.0,936,Best Director
+1948,603,Drama,8,0,Gentleman's Agreement,2000000,7,Celeste Holm,White,Na,USA,Straight,0.0,936,Best Supporting Actress
+1948,603,Romance,8,0,Gentleman's Agreement,2000000,7,Elia Kazan,White,Na,USA,Straight,0.0,936,Best Director
+1948,603,Romance,8,0,Gentleman's Agreement,2000000,7,Celeste Holm,White,Na,USA,Straight,0.0,936,Best Supporting Actress
+1948,603,Romance,8,0,Gentleman's Agreement,2000000,7,Elia Kazan,White,Na,USA,Straight,0.0,936,Best Director
+1948,603,Romance,8,0,Gentleman's Agreement,2000000,7,Celeste Holm,White,Na,USA,Straight,0.0,936,Best Supporting Actress
+1949,0,Drama,7,0,Hamlet,18000000,8,Laurence Olivier,White,Na,UK,Bisexual,0.0,597,Best Actor
+1949,0,Drama,7,0,Hamlet,18000000,8,Laurence Olivier,White,Na,UK,Bisexual,0.0,597,Best Actor
+1949,0,Drama,7,0,Hamlet,18000000,8,Laurence Olivier,White,Na,UK,Bisexual,0.0,597,Best Actor
+1949,0,Drama,7,0,Hamlet,18000000,8,Laurence Olivier,White,Na,UK,Bisexual,0.0,597,Best Actor
+1952,603,Drama,12,5000,A Streetcar Named Desire,1800000,8,Karl Malden,White,Na,USA,Straight,0.0,10000,Best Supporting Actor
+1952,603,Drama,12,5000,A Streetcar Named Desire,1800000,8,Vivien Leigh,White,Roman Catholic,USA,Straight,0.0,10000,Best Actress
+1952,603,Drama,12,5000,A Streetcar Named Desire,1800000,8,Kim Hunter,White,Na,USA,Straight,0.0,10000,Best Supporting Actress
+1952,603,Drama,12,5000,A Streetcar Named Desire,1800000,8,Karl Malden,White,Na,USA,Straight,0.0,10000,Best Supporting Actor
+1952,603,Drama,12,5000,A Streetcar Named Desire,1800000,8,Vivien Leigh,White,Roman Catholic,USA,Straight,0.0,10000,Best Actress
+1952,603,Drama,12,5000,A Streetcar Named Desire,1800000,8,Kim Hunter,White,Na,USA,Straight,0.0,10000,Best Supporting Actress
+1939,964,Comedy,7,0,You Can't Take It with You,1644736,8,Frank Capra,White,Roman Catholic,USA,Straight,0.0,319,Best Director
+1939,964,Comedy,7,0,You Can't Take It with You,1644736,8,Frank Capra,White,Roman Catholic,USA,Straight,0.0,319,Best Director
+1939,964,Drama,7,0,You Can't Take It with You,1644736,8,Frank Capra,White,Roman Catholic,USA,Straight,0.0,319,Best Director
+1939,964,Drama,7,0,You Can't Take It with You,1644736,8,Frank Capra,White,Roman Catholic,USA,Straight,0.0,319,Best Director
+1939,964,Romance,7,0,You Can't Take It with You,1644736,8,Frank Capra,White,Roman Catholic,USA,Straight,0.0,319,Best Director
+1939,964,Romance,7,0,You Can't Take It with You,1644736,8,Frank Capra,White,Roman Catholic,USA,Straight,0.0,319,Best Director
+1954,160,Drama,13,0,From Here to Eternity,1650000,8,Fred Zinnemann,White,Jewish,USA,Straight,0.0,862,Best Director
+1954,160,Drama,13,0,From Here to Eternity,1650000,8,Frank Sinatra,White,Na,USA,Straight,0.0,862,Best Supporting Actor
+1954,160,Drama,13,0,From Here to Eternity,1650000,8,Donna Reed,White,Na,USA,Straight,0.0,862,Best Supporting Actress
+1954,160,Drama,13,0,From Here to Eternity,1650000,8,Fred Zinnemann,White,Jewish,USA,Straight,0.0,862,Best Director
+1954,160,Drama,13,0,From Here to Eternity,1650000,8,Frank Sinatra,White,Na,USA,Straight,0.0,862,Best Supporting Actor
+1954,160,Drama,13,0,From Here to Eternity,1650000,8,Donna Reed,White,Na,USA,Straight,0.0,862,Best Supporting Actress
+1954,160,Romance,13,0,From Here to Eternity,1650000,8,Fred Zinnemann,White,Jewish,USA,Straight,0.0,862,Best Director
+1954,160,Romance,13,0,From Here to Eternity,1650000,8,Frank Sinatra,White,Na,USA,Straight,0.0,862,Best Supporting Actor
+1954,160,Romance,13,0,From Here to Eternity,1650000,8,Donna Reed,White,Na,USA,Straight,0.0,862,Best Supporting Actress
+1954,160,Romance,13,0,From Here to Eternity,1650000,8,Fred Zinnemann,White,Jewish,USA,Straight,0.0,862,Best Director
+1954,160,Romance,13,0,From Here to Eternity,1650000,8,Frank Sinatra,White,Na,USA,Straight,0.0,862,Best Supporting Actor
+1954,160,Romance,13,0,From Here to Eternity,1650000,8,Donna Reed,White,Na,USA,Straight,0.0,862,Best Supporting Actress
+1954,160,War,13,0,From Here to Eternity,1650000,8,Fred Zinnemann,White,Jewish,USA,Straight,0.0,862,Best Director
+1954,160,War,13,0,From Here to Eternity,1650000,8,Frank Sinatra,White,Na,USA,Straight,0.0,862,Best Supporting Actor
+1954,160,War,13,0,From Here to Eternity,1650000,8,Donna Reed,White,Na,USA,Straight,0.0,862,Best Supporting Actress
+1954,160,War,13,0,From Here to Eternity,1650000,8,Fred Zinnemann,White,Jewish,USA,Straight,0.0,862,Best Director
+1954,160,War,13,0,From Here to Eternity,1650000,8,Frank Sinatra,White,Na,USA,Straight,0.0,862,Best Supporting Actor
+1954,160,War,13,0,From Here to Eternity,1650000,8,Donna Reed,White,Na,USA,Straight,0.0,862,Best Supporting Actress
+1946,0,Drama,7,0,The Lost Weekend,1250000,8,Billy Wilder,White,Jewish,USA,Straight,0.0,287,Best Director
+1946,0,Drama,7,0,The Lost Weekend,1250000,8,Ray Milland,White,Na,USA,Straight,0.0,287,Best Actor
+1946,0,Drama,7,0,The Lost Weekend,1250000,8,Billy Wilder,White,Jewish,USA,Straight,0.0,287,Best Director
+1946,0,Drama,7,0,The Lost Weekend,1250000,8,Ray Milland,White,Na,USA,Straight,0.0,287,Best Actor
+1946,0,Film-Noir,7,0,The Lost Weekend,1250000,8,Billy Wilder,White,Jewish,USA,Straight,0.0,287,Best Director
+1946,0,Film-Noir,7,0,The Lost Weekend,1250000,8,Ray Milland,White,Na,USA,Straight,0.0,287,Best Actor
+1946,0,Film-Noir,7,0,The Lost Weekend,1250000,8,Billy Wilder,White,Jewish,USA,Straight,0.0,287,Best Director
+1946,0,Film-Noir,7,0,The Lost Weekend,1250000,8,Ray Milland,White,Na,USA,Straight,0.0,287,Best Actor
+1942,673,Drama,10,0,How Green Was My Valley,1250000,8,John Ford,White,Roman Catholic,USA,Bisexual,0.0,595,Best Director
+1942,673,Drama,10,0,How Green Was My Valley,1250000,8,Donald Crisp,White,Na,USA,Straight,0.0,595,Best Supporting Actor
+1942,673,Drama,10,0,How Green Was My Valley,1250000,8,John Ford,White,Roman Catholic,USA,Bisexual,0.0,595,Best Director
+1942,673,Drama,10,0,How Green Was My Valley,1250000,8,Donald Crisp,White,Na,USA,Straight,0.0,595,Best Supporting Actor
+1942,673,Family,10,0,How Green Was My Valley,1250000,8,John Ford,White,Roman Catholic,USA,Bisexual,0.0,595,Best Director
+1942,673,Family,10,0,How Green Was My Valley,1250000,8,Donald Crisp,White,Na,USA,Straight,0.0,595,Best Supporting Actor
+1942,673,Family,10,0,How Green Was My Valley,1250000,8,John Ford,White,Roman Catholic,USA,Bisexual,0.0,595,Best Director
+1942,673,Family,10,0,How Green Was My Valley,1250000,8,Donald Crisp,White,Na,USA,Straight,0.0,595,Best Supporting Actor
+1944,345,Drama,8,23000,Casablanca,950000,9,Michael Curtiz,White,Na,USA,Straight,0.0,2000,Best Director
+1944,345,Drama,8,23000,Casablanca,950000,9,Michael Curtiz,White,Na,USA,Straight,0.0,2000,Best Director
+1944,345,Romance,8,23000,Casablanca,950000,9,Michael Curtiz,White,Na,USA,Straight,0.0,2000,Best Director
+1944,345,Romance,8,23000,Casablanca,950000,9,Michael Curtiz,White,Na,USA,Straight,0.0,2000,Best Director
+1944,345,War,8,23000,Casablanca,950000,9,Michael Curtiz,White,Na,USA,Straight,0.0,2000,Best Director
+1944,345,War,8,23000,Casablanca,950000,9,Michael Curtiz,White,Na,USA,Straight,0.0,2000,Best Director
+1976,80,Drama,10,0,Rocky,960000,8,John G. Avildsen,White,Na,USA,Straight,0.0,13000,Best Director
+1976,80,Drama,10,0,Rocky,960000,8,John G. Avildsen,White,Na,USA,Straight,0.0,13000,Best Director
+1976,80,Sport,10,0,Rocky,960000,8,John G. Avildsen,White,Na,USA,Straight,0.0,13000,Best Director
+1976,80,Sport,10,0,Rocky,960000,8,John G. Avildsen,White,Na,USA,Straight,0.0,13000,Best Director
+1964,62,Adventure,10,328,Tom Jones,1000000,7,Tony Richardson,White,Na,UK,Bisexual,0.0,883,Best Director
+1964,62,Adventure,10,328,Tom Jones,1000000,7,Tony Richardson,White,Na,UK,Bisexual,0.0,883,Best Director
+1964,62,Comedy,10,328,Tom Jones,1000000,7,Tony Richardson,White,Na,UK,Bisexual,0.0,883,Best Director
+1964,62,Comedy,10,328,Tom Jones,1000000,7,Tony Richardson,White,Na,UK,Bisexual,0.0,883,Best Director
+1964,62,History,10,328,Tom Jones,1000000,7,Tony Richardson,White,Na,UK,Bisexual,0.0,883,Best Director
+1964,62,History,10,328,Tom Jones,1000000,7,Tony Richardson,White,Na,UK,Bisexual,0.0,883,Best Director
+1969,17,Drama,0,785,Charly,0,7,Cliff Robertson,White,Na,USA,Straight,0.0,754,Best Actor
+1969,17,Drama,0,785,Charly,0,7,Cliff Robertson,White,Na,USA,Straight,0.0,754,Best Actor
+1969,17,Romance,0,785,Charly,0,7,Cliff Robertson,White,Na,USA,Straight,0.0,754,Best Actor
+1969,17,Romance,0,785,Charly,0,7,Cliff Robertson,White,Na,USA,Straight,0.0,754,Best Actor
+1969,17,Sci-Fi,0,785,Charly,0,7,Cliff Robertson,White,Na,USA,Straight,0.0,754,Best Actor
+1969,17,Sci-Fi,0,785,Charly,0,7,Cliff Robertson,White,Na,USA,Straight,0.0,754,Best Actor
+1955,603,Crime,12,0,On the Waterfront,910000,8,Elia Kazan,White,Na,USA,Straight,88.0,10000,Best Director
+1955,603,Crime,12,0,On the Waterfront,910000,8,Marlon Brando,White,Deist,USA,Bisexual,88.0,10000,Best Actor
+1955,603,Crime,12,0,On the Waterfront,910000,8,Eva Marie Saint,White,Na,USA,Straight,88.0,10000,Best Supporting Actress
+1955,603,Crime,12,0,On the Waterfront,910000,8,Elia Kazan,White,Na,USA,Straight,88.0,10000,Best Director
+1955,603,Crime,12,0,On the Waterfront,910000,8,Marlon Brando,White,Deist,USA,Bisexual,88.0,10000,Best Actor
+1955,603,Crime,12,0,On the Waterfront,910000,8,Eva Marie Saint,White,Na,USA,Straight,88.0,10000,Best Supporting Actress
+1955,603,Drama,12,0,On the Waterfront,910000,8,Elia Kazan,White,Na,USA,Straight,88.0,10000,Best Director
+1955,603,Drama,12,0,On the Waterfront,910000,8,Marlon Brando,White,Deist,USA,Bisexual,88.0,10000,Best Actor
+1955,603,Drama,12,0,On the Waterfront,910000,8,Eva Marie Saint,White,Na,USA,Straight,88.0,10000,Best Supporting Actress
+1955,603,Drama,12,0,On the Waterfront,910000,8,Elia Kazan,White,Na,USA,Straight,88.0,10000,Best Director
+1955,603,Drama,12,0,On the Waterfront,910000,8,Marlon Brando,White,Deist,USA,Bisexual,88.0,10000,Best Actor
+1955,603,Drama,12,0,On the Waterfront,910000,8,Eva Marie Saint,White,Na,USA,Straight,88.0,10000,Best Supporting Actress
+1955,603,Romance,12,0,On the Waterfront,910000,8,Elia Kazan,White,Na,USA,Straight,88.0,10000,Best Director
+1955,603,Romance,12,0,On the Waterfront,910000,8,Marlon Brando,White,Deist,USA,Bisexual,88.0,10000,Best Actor
+1955,603,Romance,12,0,On the Waterfront,910000,8,Eva Marie Saint,White,Na,USA,Straight,88.0,10000,Best Supporting Actress
+1955,603,Romance,12,0,On the Waterfront,910000,8,Elia Kazan,White,Na,USA,Straight,88.0,10000,Best Director
+1955,603,Romance,12,0,On the Waterfront,910000,8,Marlon Brando,White,Deist,USA,Bisexual,88.0,10000,Best Actor
+1955,603,Romance,12,0,On the Waterfront,910000,8,Eva Marie Saint,White,Na,USA,Straight,88.0,10000,Best Supporting Actress
+1953,160,Thriller,7,3000,High Noon,750000,8,Gary Cooper,White,Roman Catholic,USA,Straight,89.0,998,Best Actor
+1953,160,Thriller,7,3000,High Noon,750000,8,Gary Cooper,White,Roman Catholic,USA,Straight,89.0,998,Best Actor
+1953,160,Thriller,7,3000,High Noon,750000,8,Gary Cooper,White,Roman Catholic,USA,Straight,89.0,998,Best Actor
+1953,160,Thriller,7,3000,High Noon,750000,8,Gary Cooper,White,Roman Catholic,USA,Straight,89.0,998,Best Actor
+1953,160,Western,7,3000,High Noon,750000,8,Gary Cooper,White,Roman Catholic,USA,Straight,89.0,998,Best Actor
+1953,160,Western,7,3000,High Noon,750000,8,Gary Cooper,White,Roman Catholic,USA,Straight,89.0,998,Best Actor
+1953,160,Western,7,3000,High Noon,750000,8,Gary Cooper,White,Roman Catholic,USA,Straight,89.0,998,Best Actor
+1953,160,Western,7,3000,High Noon,750000,8,Gary Cooper,White,Roman Catholic,USA,Straight,89.0,998,Best Actor
+1935,964,Comedy,5,0,It Happened One Night,325000,8,Frank Capra,White,Roman Catholic,USA,Straight,0.0,380,Best Director
+1935,964,Comedy,5,0,It Happened One Night,325000,8,Clark Gable,White,Na,USA,Straight,0.0,380,Best Actor
+1935,964,Comedy,5,0,It Happened One Night,325000,8,Claudette Colbert,White,Na,USA,Straight,0.0,380,Best Actress
+1935,964,Comedy,5,0,It Happened One Night,325000,8,Frank Capra,White,Roman Catholic,USA,Straight,0.0,380,Best Director
+1935,964,Comedy,5,0,It Happened One Night,325000,8,Clark Gable,White,Na,USA,Straight,0.0,380,Best Actor
+1935,964,Comedy,5,0,It Happened One Night,325000,8,Claudette Colbert,White,Na,USA,Straight,0.0,380,Best Actress
+1935,964,Romance,5,0,It Happened One Night,325000,8,Frank Capra,White,Roman Catholic,USA,Straight,0.0,380,Best Director
+1935,964,Romance,5,0,It Happened One Night,325000,8,Clark Gable,White,Na,USA,Straight,0.0,380,Best Actor
+1935,964,Romance,5,0,It Happened One Night,325000,8,Claudette Colbert,White,Na,USA,Straight,0.0,380,Best Actress
+1935,964,Romance,5,0,It Happened One Night,325000,8,Frank Capra,White,Roman Catholic,USA,Straight,0.0,380,Best Director
+1935,964,Romance,5,0,It Happened One Night,325000,8,Clark Gable,White,Na,USA,Straight,0.0,380,Best Actor
+1935,964,Romance,5,0,It Happened One Night,325000,8,Claudette Colbert,White,Na,USA,Straight,0.0,380,Best Actress
