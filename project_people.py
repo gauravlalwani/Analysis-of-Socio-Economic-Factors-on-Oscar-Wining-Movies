@@ -1,7 +1,6 @@
 import pymysql
 import csv
 
-
 # Open the connection to the database
 connection = pymysql.connect(host="localhost",
                              user="gaurav_lalwani",
