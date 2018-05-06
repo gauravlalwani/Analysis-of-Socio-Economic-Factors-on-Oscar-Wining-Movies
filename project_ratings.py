@@ -29,7 +29,6 @@ no_of_nominations= %(nominations)s,
 movie_id = %(movie_id)s
 WHERE movie_id = %(movie_id)s
 """
-
 #Open the actor_waterloo.csv to read the data
 with open('actor_waterloo.csv') as csvfile:
 
