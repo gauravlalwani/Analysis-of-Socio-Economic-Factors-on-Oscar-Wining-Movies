@@ -33,7 +33,6 @@ with open('movies_imdb.csv') as csvfile:
     sql_insert = """INSERT INTO popularity_ratings(imdb_rating,movie_facebook_likes,director_facebook_likes,actor_facebook_likes,movie_id)
          VALUE (%(imdb_score)s,%(movie_facebook_likes)s,%(director_facebook_likes)s,%(actor_1_facebook_likes)s,%(movie_id)s)
          """
-
     for row in myCSVReader:
 
         #Removes extra white spaces from both sides
